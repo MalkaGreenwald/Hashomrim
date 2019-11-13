@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="33442a6b22fd41bfbec36c7cf439c8df" Name="Diagram1">
+        <EntityTypeShape EntityType="HashomrimProjectModel.Callling" Width="1.5" PointX="5.25" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.DetailsValunteer" Width="1.5" PointX="8" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.EventName" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.Event" Width="1.5" PointX="3" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.EventStatu" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.FreindlyEvent" Width="1.5" PointX="10.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.HistoryStatusValunteer" Width="1.5" PointX="12.5" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.Mokdan" Width="1.5" PointX="7.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.PersonalSituation" Width="1.5" PointX="8" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.StatusValunteer" Width="1.5" PointX="5.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.sysdiagram" Width="1.5" PointX="0.75" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.Valunteer" Width="1.5" PointX="10.25" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.ValunteerEvent" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HashomrimProjectModel.ValunteerStatusInEvent" Width="1.5" PointX="3" PointY="9.25" IsExpanded="true" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_Callling_Events" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_DetailsValunteer_StatusValunteer" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_Valunteer_DetailsValunteer" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_Events_EventName" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_Events_EventStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_ValunteerEvent_Events" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_HistoryStatusValunteer_Valunteer" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_Valunteer_PersonalSituation" ManuallyRouted="false" />
+        <AssociationConnector Association="HashomrimProjectModel.FK_ValunteerEvent_ValunteerStatusInEvent" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

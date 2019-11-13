@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="HashomrimProjectModelStoreContainer" CdmEntityContainer="HashomrimProjectEntities2">
+    <EntitySetMapping Name="Calllings">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.Callling">
+        <MappingFragment StoreEntitySet="Callling">
+          <ScalarProperty Name="callingCode" ColumnName="callingCode" />
+          <ScalarProperty Name="eventCodeId" ColumnName="eventCodeId" />
+          <ScalarProperty Name="callingDate" ColumnName="callingDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DetailsValunteers">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.DetailsValunteer">
+        <MappingFragment StoreEntitySet="DetailsValunteer">
+          <ScalarProperty Name="statusValunteerId" ColumnName="statusValunteerId" />
+          <ScalarProperty Name="silencingRingingUntilDate" ColumnName="silencingRingingUntilDate" />
+          <ScalarProperty Name="silencingRingingFronDate" ColumnName="silencingRingingFronDate" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="radius" ColumnName="radius" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventNames">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.EventName">
+        <MappingFragment StoreEntitySet="EventName">
+          <ScalarProperty Name="eventNameId" ColumnName="eventNameId" />
+          <ScalarProperty Name="discribeEventName" ColumnName="discribeEventName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Events">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.Event">
+        <MappingFragment StoreEntitySet="Events">
+          <ScalarProperty Name="eventCode" ColumnName="eventCode" />
+          <ScalarProperty Name="eventNameId" ColumnName="eventNameId" />
+          <ScalarProperty Name="eventDescription" ColumnName="eventDescription" />
+          <ScalarProperty Name="heightPointAddress" ColumnName="heightPointAddress" />
+          <ScalarProperty Name="widthPointAddress" ColumnName="widthPointAddress" />
+          <ScalarProperty Name="startCallingDate" ColumnName="startCallingDate" />
+          <ScalarProperty Name="eventStatusId" ColumnName="eventStatusId" />
+          <ScalarProperty Name="stringAddress" ColumnName="stringAddress" />
+          <ScalarProperty Name="city" ColumnName="city" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EventStatus">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.EventStatu">
+        <MappingFragment StoreEntitySet="EventStatus">
+          <ScalarProperty Name="eventStatusId" ColumnName="eventStatusId" />
+          <ScalarProperty Name="discribeEventStatus" ColumnName="discribeEventStatus" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FreindlyEvents">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.FreindlyEvent">
+        <MappingFragment StoreEntitySet="FreindlyEvent">
+          <ScalarProperty Name="freindlyCode" ColumnName="freindlyCode" />
+          <ScalarProperty Name="freindlyDescription" ColumnName="freindlyDescription" />
+          <ScalarProperty Name="heightPointAddress" ColumnName="heightPointAddress" />
+          <ScalarProperty Name="widthPointAddress" ColumnName="widthPointAddress" />
+          <ScalarProperty Name="hour" ColumnName="hour" />
+          <ScalarProperty Name="countValunteer" ColumnName="countValunteer" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="city" ColumnName="city" />
+          <ScalarProperty Name="addressFreindlyEvent" ColumnName="addressFreindlyEvent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HistoryStatusValunteers">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.HistoryStatusValunteer">
+        <MappingFragment StoreEntitySet="HistoryStatusValunteer">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="statusValunteerId" ColumnName="statusValunteerId" />
+          <ScalarProperty Name="silencingRingingUntilDate" ColumnName="silencingRingingUntilDate" />
+          <ScalarProperty Name="silencingRingingFromDate" ColumnName="silencingRingingFromDate" />
+          <ScalarProperty Name="volunteerId" ColumnName="volunteerId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Mokdans">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.Mokdan">
+        <MappingFragment StoreEntitySet="Mokdan">
+          <ScalarProperty Name="idMokdan" ColumnName="idMokdan" />
+          <ScalarProperty Name="userName" ColumnName="userName" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonalSituations">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.PersonalSituation">
+        <MappingFragment StoreEntitySet="PersonalSituation">
+          <ScalarProperty Name="personalSituationId" ColumnName="personalSituationId" />
+          <ScalarProperty Name="discribe" ColumnName="discribe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StatusValunteers">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.StatusValunteer">
+        <MappingFragment StoreEntitySet="StatusValunteer">
+          <ScalarProperty Name="statusValunteerId" ColumnName="statusValunteerId" />
+          <ScalarProperty Name="discribeStatusValunteer" ColumnName="discribeStatusValunteer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Valunteers">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.Valunteer">
+        <MappingFragment StoreEntitySet="Valunteer">
+          <ScalarProperty Name="tz" ColumnName="tz" />
+          <ScalarProperty Name="firstName" ColumnName="firstName" />
+          <ScalarProperty Name="lastName" ColumnName="lastName" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="cityId" ColumnName="cityId" />
+          <ScalarProperty Name="hieghtPointAddress" ColumnName="hieghtPointAddress" />
+          <ScalarProperty Name="personalSituationId" ColumnName="personalSituationId" />
+          <ScalarProperty Name="widthPointAddress" ColumnName="widthPointAddress" />
+          <ScalarProperty Name="volunteerDetailId" ColumnName="volunteerDetailId" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="addressVolunteer" ColumnName="addressVolunteer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ValunteerEvents">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.ValunteerEvent">
+        <MappingFragment StoreEntitySet="ValunteerEvent">
+          <ScalarProperty Name="valunteerId" ColumnName="valunteerId" />
+          <ScalarProperty Name="eventCodeId" ColumnName="eventCodeId" />
+          <ScalarProperty Name="valunteerStatusInEventId" ColumnName="valunteerStatusInEventId" />
+          <ScalarProperty Name="dateGetEvent" ColumnName="dateGetEvent" />
+          <ScalarProperty Name="id" ColumnName="id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ValunteerStatusInEvents">
+      <EntityTypeMapping TypeName="HashomrimProjectModel.ValunteerStatusInEvent">
+        <MappingFragment StoreEntitySet="ValunteerStatusInEvent">
+          <ScalarProperty Name="valunteerStatusInEventId" ColumnName="valunteerStatusInEventId" />
+          <ScalarProperty Name="discribeValunteerStatusInEvent" ColumnName="discribeValunteerStatusInEvent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

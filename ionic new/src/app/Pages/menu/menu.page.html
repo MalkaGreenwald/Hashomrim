@@ -1,0 +1,33 @@
+
+  <ion-split-pane>
+    <ion-menu contentId="content">
+      <ion-header>
+        <ion-toolbar>
+            <ion-img src="/assets/img/logo.jpg"></ion-img>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content>
+
+      <!-- style=" left: 56px; " -->
+    <ion-list >
+      <ion-item >{{volunteer.firstName}} {{volunteer.lastName}} ({{volunteer.phone}})</ion-item>
+      <!-- <ion-menu [side]="right" *ngFor="let p of page"> -->
+          <ion-menu-toggle    auto-hide="false" *ngFor="let p of page">
+        
+        <ion-item [routerLink]="p.url" routerDirection="root"  [class.active-item]="selectedPath===p.url">
+          {{p.title}}
+        </ion-item>
+      </ion-menu-toggle>
+      <!-- </ion-menu> -->
+      <ion-item >
+          <a  href="{{pp.url}}"   routerDirection="root"  [class.active-item]="selectedPath=== pp.url" ion-button full clear>בקרו בי</a>
+        </ion-item>
+     
+    </ion-list>
+ 
+      </ion-content>
+    </ion-menu>
+    <ion-router-outlet id="content" main></ion-router-outlet>
+    
+    </ion-split-pane>
+    

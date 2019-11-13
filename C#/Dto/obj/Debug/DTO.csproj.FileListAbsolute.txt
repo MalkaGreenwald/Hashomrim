@@ -1,0 +1,454 @@
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\DTO\bin\Debug\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\DTO\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\DTO\obj\Debug\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\DTO\obj\Debug\DTO.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\DAL.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\obj\Debug\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\Dto\obj\Debug\DTO.pdb
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\DTO.dll.config
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\DTO.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\DTO.pdb
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\DAL.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\System.Web.Cors.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\System.Web.Http.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\System.Web.Http.xml
+C:\Users\user\Desktop\projectFinall\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\projectFinall\test\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\projectFinall\test\Dto\obj\Debug\DTO.dll
+C:\Users\user\Desktop\projectFinall\test\Dto\obj\Debug\DTO.pdb
+D:\test\Dto\bin\Debug\DTO.dll.config
+D:\test\Dto\bin\Debug\DTO.dll
+D:\test\Dto\bin\Debug\DTO.pdb
+D:\test\Dto\bin\Debug\DAL.dll
+D:\test\Dto\bin\Debug\EntityFramework.dll
+D:\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\test\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\test\Dto\bin\Debug\System.Web.Cors.dll
+D:\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\test\Dto\bin\Debug\System.Web.Http.dll
+D:\test\Dto\bin\Debug\DAL.pdb
+D:\test\Dto\bin\Debug\DAL.dll.config
+D:\test\Dto\bin\Debug\EntityFramework.xml
+D:\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\test\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\test\Dto\bin\Debug\System.Web.Http.xml
+D:\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\test\Dto\obj\Debug\DTO.dll
+D:\test\Dto\obj\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\obj\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\Dto\obj\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\obj\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\Dto\obj\Debug\DTO.pdb
+D:\23.6\test\Dto\bin\Debug\DTO.dll.config
+D:\23.6\test\Dto\bin\Debug\DTO.dll
+D:\23.6\test\Dto\bin\Debug\DTO.pdb
+D:\23.6\test\Dto\bin\Debug\DAL.dll
+D:\23.6\test\Dto\bin\Debug\EntityFramework.dll
+D:\23.6\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\23.6\test\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\23.6\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\23.6\test\Dto\bin\Debug\System.Web.Cors.dll
+D:\23.6\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\23.6\test\Dto\bin\Debug\System.Web.Http.dll
+D:\23.6\test\Dto\bin\Debug\DAL.pdb
+D:\23.6\test\Dto\bin\Debug\DAL.dll.config
+D:\23.6\test\Dto\bin\Debug\EntityFramework.xml
+D:\23.6\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\23.6\test\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\23.6\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\23.6\test\Dto\bin\Debug\System.Web.Http.xml
+D:\23.6\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\23.6\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\23.6\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\23.6\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\23.6\test\Dto\obj\Debug\DTO.dll
+D:\23.6\test\Dto\obj\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\obj\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\Dto\obj\Debug\DTO.pdb
+D:\2.7\test\Dto\bin\Debug\DTO.dll.config
+D:\2.7\test\Dto\bin\Debug\DTO.dll
+D:\2.7\test\Dto\bin\Debug\DTO.pdb
+D:\2.7\test\Dto\bin\Debug\DAL.dll
+D:\2.7\test\Dto\bin\Debug\EntityFramework.dll
+D:\2.7\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\2.7\test\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\2.7\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\2.7\test\Dto\bin\Debug\System.Web.Cors.dll
+D:\2.7\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\2.7\test\Dto\bin\Debug\System.Web.Http.dll
+D:\2.7\test\Dto\bin\Debug\DAL.pdb
+D:\2.7\test\Dto\bin\Debug\DAL.dll.config
+D:\2.7\test\Dto\bin\Debug\EntityFramework.xml
+D:\2.7\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\2.7\test\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\2.7\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\2.7\test\Dto\bin\Debug\System.Web.Http.xml
+D:\2.7\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\2.7\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\2.7\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\2.7\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\2.7\test\Dto\obj\Debug\DTO.dll
+D:\2.7\test\Dto\obj\Debug\DTO.pdb
+D:\7.7\test\Dto\bin\Debug\DTO.dll.config
+D:\7.7\test\Dto\bin\Debug\DTO.dll
+D:\7.7\test\Dto\bin\Debug\DTO.pdb
+D:\7.7\test\Dto\bin\Debug\DAL.dll
+D:\7.7\test\Dto\bin\Debug\EntityFramework.dll
+D:\7.7\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\7.7\test\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\7.7\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\7.7\test\Dto\bin\Debug\System.Web.Cors.dll
+D:\7.7\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\7.7\test\Dto\bin\Debug\System.Web.Http.dll
+D:\7.7\test\Dto\bin\Debug\DAL.pdb
+D:\7.7\test\Dto\bin\Debug\DAL.dll.config
+D:\7.7\test\Dto\bin\Debug\EntityFramework.xml
+D:\7.7\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\7.7\test\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\7.7\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\7.7\test\Dto\bin\Debug\System.Web.Http.xml
+D:\7.7\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\7.7\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\7.7\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\7.7\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\7.7\test\Dto\obj\Debug\DTO.dll
+D:\7.7\test\Dto\obj\Debug\DTO.pdb
+D:\9.7\test\Dto\bin\Debug\DTO.dll.config
+D:\9.7\test\Dto\bin\Debug\DTO.dll
+D:\9.7\test\Dto\bin\Debug\DTO.pdb
+D:\9.7\test\Dto\bin\Debug\DAL.dll
+D:\9.7\test\Dto\bin\Debug\EntityFramework.dll
+D:\9.7\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\9.7\test\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\9.7\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\9.7\test\Dto\bin\Debug\System.Web.Cors.dll
+D:\9.7\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\9.7\test\Dto\bin\Debug\System.Web.Http.dll
+D:\9.7\test\Dto\bin\Debug\DAL.pdb
+D:\9.7\test\Dto\bin\Debug\DAL.dll.config
+D:\9.7\test\Dto\bin\Debug\EntityFramework.xml
+D:\9.7\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\9.7\test\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\9.7\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\9.7\test\Dto\bin\Debug\System.Web.Http.xml
+D:\9.7\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\9.7\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\9.7\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\9.7\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\9.7\test\Dto\obj\Debug\DTO.dll
+D:\9.7\test\Dto\obj\Debug\DTO.pdb
+H:\9.7\test\Dto\bin\Debug\DTO.dll.config
+H:\9.7\test\Dto\bin\Debug\DTO.dll
+H:\9.7\test\Dto\bin\Debug\DTO.pdb
+H:\9.7\test\Dto\bin\Debug\DAL.dll
+H:\9.7\test\Dto\bin\Debug\EntityFramework.dll
+H:\9.7\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+H:\9.7\test\Dto\bin\Debug\Newtonsoft.Json.dll
+H:\9.7\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+H:\9.7\test\Dto\bin\Debug\System.Web.Cors.dll
+H:\9.7\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+H:\9.7\test\Dto\bin\Debug\System.Web.Http.dll
+H:\9.7\test\Dto\bin\Debug\DAL.pdb
+H:\9.7\test\Dto\bin\Debug\DAL.dll.config
+H:\9.7\test\Dto\bin\Debug\EntityFramework.xml
+H:\9.7\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+H:\9.7\test\Dto\bin\Debug\Newtonsoft.Json.xml
+H:\9.7\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+H:\9.7\test\Dto\bin\Debug\System.Web.Http.xml
+H:\9.7\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+H:\9.7\test\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+H:\9.7\test\Dto\obj\Debug\DTO.dll
+H:\9.7\test\Dto\obj\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\obj\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\Dto\obj\Debug\DTO.pdb
+D:\7.8\test\Dto\bin\Debug\DTO.dll.config
+D:\7.8\test\Dto\bin\Debug\DTO.dll
+D:\7.8\test\Dto\bin\Debug\DTO.pdb
+D:\7.8\test\Dto\bin\Debug\DAL.dll
+D:\7.8\test\Dto\bin\Debug\EntityFramework.dll
+D:\7.8\test\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\7.8\test\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\7.8\test\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\7.8\test\Dto\bin\Debug\System.Web.Cors.dll
+D:\7.8\test\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\7.8\test\Dto\bin\Debug\System.Web.Http.dll
+D:\7.8\test\Dto\bin\Debug\DAL.pdb
+D:\7.8\test\Dto\bin\Debug\DAL.dll.config
+D:\7.8\test\Dto\bin\Debug\EntityFramework.xml
+D:\7.8\test\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\7.8\test\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\7.8\test\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\7.8\test\Dto\bin\Debug\System.Web.Http.xml
+D:\7.8\test\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\7.8\test\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\7.8\test\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\7.8\test\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\7.8\test\Dto\obj\Debug\DTO.dll
+D:\7.8\test\Dto\obj\Debug\DTO.pdb
+F:\רחלי\c#\Dto\bin\Debug\DTO.dll.config
+F:\רחלי\c#\Dto\bin\Debug\DTO.dll
+F:\רחלי\c#\Dto\bin\Debug\DTO.pdb
+F:\רחלי\c#\Dto\bin\Debug\DAL.dll
+F:\רחלי\c#\Dto\bin\Debug\EntityFramework.dll
+F:\רחלי\c#\Dto\bin\Debug\EntityFramework.SqlServer.dll
+F:\רחלי\c#\Dto\bin\Debug\Newtonsoft.Json.dll
+F:\רחלי\c#\Dto\bin\Debug\System.Net.Http.Formatting.dll
+F:\רחלי\c#\Dto\bin\Debug\System.Web.Cors.dll
+F:\רחלי\c#\Dto\bin\Debug\System.Web.Http.Cors.dll
+F:\רחלי\c#\Dto\bin\Debug\System.Web.Http.dll
+F:\רחלי\c#\Dto\bin\Debug\DAL.pdb
+F:\רחלי\c#\Dto\bin\Debug\DAL.dll.config
+F:\רחלי\c#\Dto\bin\Debug\EntityFramework.xml
+F:\רחלי\c#\Dto\bin\Debug\EntityFramework.SqlServer.xml
+F:\רחלי\c#\Dto\bin\Debug\Newtonsoft.Json.xml
+F:\רחלי\c#\Dto\bin\Debug\System.Net.Http.Formatting.xml
+F:\רחלי\c#\Dto\bin\Debug\System.Web.Http.xml
+F:\רחלי\c#\Dto\bin\Debug\System.Web.Http.Cors.xml
+F:\רחלי\c#\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+F:\רחלי\c#\Dto\obj\Debug\DTO.dll
+F:\רחלי\c#\Dto\obj\Debug\DTO.pdb
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\DTO.dll.config
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\DTO.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\DTO.pdb
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\DAL.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\System.Web.Cors.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\System.Web.Http.dll
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\System.Web.Http.xml
+C:\Users\user\Desktop\רחל\c#\Dto\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\רחל\c#\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\רחל\c#\Dto\obj\Debug\DTO.dll
+C:\Users\user\Desktop\רחל\c#\Dto\obj\Debug\DTO.pdb
+G:\רחל\c#\Dto\bin\Debug\DTO.dll.config
+G:\רחל\c#\Dto\bin\Debug\DTO.dll
+G:\רחל\c#\Dto\bin\Debug\DTO.pdb
+G:\רחל\c#\Dto\bin\Debug\DAL.dll
+G:\רחל\c#\Dto\bin\Debug\EntityFramework.dll
+G:\רחל\c#\Dto\bin\Debug\EntityFramework.SqlServer.dll
+G:\רחל\c#\Dto\bin\Debug\Newtonsoft.Json.dll
+G:\רחל\c#\Dto\bin\Debug\System.Net.Http.Formatting.dll
+G:\רחל\c#\Dto\bin\Debug\System.Web.Cors.dll
+G:\רחל\c#\Dto\bin\Debug\System.Web.Http.Cors.dll
+G:\רחל\c#\Dto\bin\Debug\System.Web.Http.dll
+G:\רחל\c#\Dto\bin\Debug\DAL.pdb
+G:\רחל\c#\Dto\bin\Debug\DAL.dll.config
+G:\רחל\c#\Dto\bin\Debug\EntityFramework.xml
+G:\רחל\c#\Dto\bin\Debug\EntityFramework.SqlServer.xml
+G:\רחל\c#\Dto\bin\Debug\Newtonsoft.Json.xml
+G:\רחל\c#\Dto\bin\Debug\System.Net.Http.Formatting.xml
+G:\רחל\c#\Dto\bin\Debug\System.Web.Http.xml
+G:\רחל\c#\Dto\bin\Debug\System.Web.Http.Cors.xml
+G:\רחל\c#\Dto\obj\Debug\Dto.csprojResolveAssemblyReference.cache
+G:\רחל\c#\Dto\obj\Debug\DTO.dll
+G:\רחל\c#\Dto\obj\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\bin\Debug\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\obj\Debug\Dto.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\obj\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\Dto\obj\Debug\DTO.pdb
+D:\29.10\c#\Dto\bin\Debug\DTO.dll.config
+D:\29.10\c#\Dto\bin\Debug\DTO.dll
+D:\29.10\c#\Dto\bin\Debug\DTO.pdb
+D:\29.10\c#\Dto\bin\Debug\DAL.dll
+D:\29.10\c#\Dto\bin\Debug\EntityFramework.dll
+D:\29.10\c#\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\29.10\c#\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\29.10\c#\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\29.10\c#\Dto\bin\Debug\System.Web.Cors.dll
+D:\29.10\c#\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\29.10\c#\Dto\bin\Debug\System.Web.Http.dll
+D:\29.10\c#\Dto\bin\Debug\DAL.pdb
+D:\29.10\c#\Dto\bin\Debug\DAL.dll.config
+D:\29.10\c#\Dto\bin\Debug\EntityFramework.xml
+D:\29.10\c#\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\29.10\c#\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\29.10\c#\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\29.10\c#\Dto\bin\Debug\System.Web.Http.xml
+D:\29.10\c#\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\29.10\c#\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\29.10\c#\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\29.10\c#\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\29.10\c#\Dto\obj\Debug\DTO.dll
+D:\29.10\c#\Dto\obj\Debug\DTO.pdb
+D:\29.10\c#\Dto\bin\Debug\System.Device.Portable.dll
+D:\11.11\C#\Dto\bin\Debug\DTO.dll.config
+D:\11.11\C#\Dto\bin\Debug\DTO.dll
+D:\11.11\C#\Dto\bin\Debug\DTO.pdb
+D:\11.11\C#\Dto\bin\Debug\DAL.dll
+D:\11.11\C#\Dto\bin\Debug\EntityFramework.dll
+D:\11.11\C#\Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\11.11\C#\Dto\bin\Debug\Newtonsoft.Json.dll
+D:\11.11\C#\Dto\bin\Debug\System.Device.Portable.dll
+D:\11.11\C#\Dto\bin\Debug\System.Net.Http.Formatting.dll
+D:\11.11\C#\Dto\bin\Debug\System.Web.Cors.dll
+D:\11.11\C#\Dto\bin\Debug\System.Web.Http.Cors.dll
+D:\11.11\C#\Dto\bin\Debug\System.Web.Http.dll
+D:\11.11\C#\Dto\bin\Debug\DAL.pdb
+D:\11.11\C#\Dto\bin\Debug\DAL.dll.config
+D:\11.11\C#\Dto\bin\Debug\EntityFramework.xml
+D:\11.11\C#\Dto\bin\Debug\EntityFramework.SqlServer.xml
+D:\11.11\C#\Dto\bin\Debug\Newtonsoft.Json.xml
+D:\11.11\C#\Dto\bin\Debug\System.Net.Http.Formatting.xml
+D:\11.11\C#\Dto\bin\Debug\System.Web.Http.xml
+D:\11.11\C#\Dto\bin\Debug\System.Web.Http.Cors.xml
+D:\11.11\C#\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+D:\11.11\C#\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+D:\11.11\C#\Dto\obj\Debug\Dto.csproj.CopyComplete
+D:\11.11\C#\Dto\obj\Debug\DTO.dll
+D:\11.11\C#\Dto\obj\Debug\DTO.pdb

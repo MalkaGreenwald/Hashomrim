@@ -1,0 +1,22 @@
+
+ <ion-header color="primary" >
+  <ion-toolbar color="primary">
+    <ion-buttons dir="rtl" slot="start">
+      <ion-menu-button ></ion-menu-button>
+    
+    </ion-buttons>   
+    <ion-title>
+    <div style="margin-right: 65px; margin-left: -4px;  position: absolute;">הגדרות</div>
+      </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+<b style="margin-right: 39%;margin-top: 7%;position: absolute;font-size: large;">הישובים שלי</b>
+<div style="position: relative;margin-top: 14%;padding: 6%;text-align: center;">קבלת התראות מיושבים קבועים, גם כשאינך בקרבת מקום</div>
+<ion-button style="margin-right: 32%;">מרחקים לבחירתך</ion-button>
+<b style="font-weight: bold;margin-right: 31%;margin-top: 125%;position: relative;">רדיוס לקבלת התראות</b>
+<ion-item (click)="option(1)">1 ק"מ</ion-item>
+<ion-item (click)="option(3)">3 ק"מ</ion-item>
+<ion-item (click)="option(5)">5 ק"מ</ion-item>
+</ion-content>

@@ -1,0 +1,42 @@
+[dir="rtl"] ion-menu[side=right]> .menu-inner{
+    right: inherit;
+    left: 0%;
+}
+
+.green{
+    background-color: #09ff00;
+    height: 24px;
+}
+.red{
+    background-color: #ff001a;
+    height: 24px;
+}
+
+
+.green1{
+    border-bottom-style: solid;
+    border-bottom-color: #09ff00;
+    border: aquamarine;
+    background: white;
+    width: 87%;
+    margin-bottom: 26px;
+    margin-right: 23px;
+    margin-top: 24px;
+    border-bottom: solid;
+    border-color: #09ff00;
+}
+.red1{
+    border-bottom-style: solid;
+    border-bottom-color: #09ff00;
+    border: aquamarine;
+    background: white;
+    width: 87%;
+    margin-bottom: 26px;
+    margin-right: 23px;
+    margin-top: 24px;
+    border-bottom: solid;
+    border-color:red;
+}
+
+/* border-bottom-color:red; */
+    /* border-bottom-color:#09ff00; */

@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="HashomrimProjectModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Callling">
+    <Key>
+      <PropertyRef Name="callingCode" />
+    </Key>
+    <Property Name="callingCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="eventCodeId" Type="int" Nullable="false" />
+    <Property Name="callingDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="DetailsValunteer">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="statusValunteerId" Type="int" Nullable="false" />
+    <Property Name="silencingRingingUntilDate" Type="datetime" Nullable="false" />
+    <Property Name="silencingRingingFronDate" Type="datetime" />
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="radius" Type="int" />
+  </EntityType>
+  <EntityType Name="EventName">
+    <Key>
+      <PropertyRef Name="eventNameId" />
+    </Key>
+    <Property Name="eventNameId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="discribeEventName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Events">
+    <Key>
+      <PropertyRef Name="eventCode" />
+    </Key>
+    <Property Name="eventCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="eventNameId" Type="int" />
+    <Property Name="eventDescription" Type="nvarchar" MaxLength="50" />
+    <Property Name="heightPointAddress" Type="float" Nullable="false" />
+    <Property Name="widthPointAddress" Type="float" Nullable="false" />
+    <Property Name="startCallingDate" Type="datetime" Nullable="false" />
+    <Property Name="eventStatusId" Type="int" Nullable="false" />
+    <Property Name="stringAddress" Type="nvarchar" MaxLength="50" />
+    <Property Name="city" Type="int" />
+  </EntityType>
+  <EntityType Name="EventStatus">
+    <Key>
+      <PropertyRef Name="eventStatusId" />
+    </Key>
+    <Property Name="eventStatusId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="discribeEventStatus" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="FreindlyEvent">
+    <Key>
+      <PropertyRef Name="freindlyCode" />
+    </Key>
+    <Property Name="freindlyCode" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="freindlyDescription" Type="nvarchar" MaxLength="50" />
+    <Property Name="heightPointAddress" Type="float" />
+    <Property Name="widthPointAddress" Type="float" />
+    <Property Name="hour" Type="time" Precision="7" />
+    <Property Name="countValunteer" Type="int" />
+    <Property Name="date" Type="datetime" />
+    <Property Name="city" Type="int" />
+    <Property Name="addressFreindlyEvent" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'HashomrimProject.dbo.GoogleMap' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="GoogleMap">
+          <Property Name="num" Type="int" />
+        </EntityType>-->
+  <EntityType Name="HistoryStatusValunteer">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="statusValunteerId" Type="int" Nullable="false" />
+    <Property Name="silencingRingingUntilDate" Type="datetime" Nullable="false" />
+    <Property Name="silencingRingingFromDate" Type="datetime" Nullable="false" />
+    <Property Name="volunteerId" Type="int" />
+  </EntityType>
+  <EntityType Name="Mokdan">
+    <Key>
+      <PropertyRef Name="idMokdan" />
+    </Key>
+    <Property Name="idMokdan" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="userName" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PersonalSituation">
+    <Key>
+      <PropertyRef Name="personalSituationId" />
+    </Key>
+    <Property Name="personalSituationId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="discribe" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="StatusValunteer">
+    <Key>
+      <PropertyRef Name="statusValunteerId" />
+    </Key>
+    <Property Name="statusValunteerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="discribeStatusValunteer" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Valunteer">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="tz" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="firstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="lastName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="phone" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="cityId" Type="int" />
+    <Property Name="hieghtPointAddress" Type="float" />
+    <Property Name="personalSituationId" Type="int" />
+    <Property Name="widthPointAddress" Type="float" />
+    <Property Name="volunteerDetailId" Type="int" />
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="addressVolunteer" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="ValunteerEvent">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="valunteerId" Type="int" Nullable="false" />
+    <Property Name="eventCodeId" Type="int" Nullable="false" />
+    <Property Name="valunteerStatusInEventId" Type="int" />
+    <Property Name="dateGetEvent" Type="datetime" />
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ValunteerStatusInEvent">
+    <Key>
+      <PropertyRef Name="valunteerStatusInEventId" />
+    </Key>
+    <Property Name="valunteerStatusInEventId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="discribeValunteerStatusInEvent" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Callling_Events">
+    <End Role="Events" Type="Self.Events" Multiplicity="1" />
+    <End Role="Callling" Type="Self.Callling" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events">
+        <PropertyRef Name="eventCode" />
+      </Principal>
+      <Dependent Role="Callling">
+        <PropertyRef Name="eventCodeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DetailsValunteer_StatusValunteer">
+    <End Role="StatusValunteer" Type="Self.StatusValunteer" Multiplicity="1" />
+    <End Role="DetailsValunteer" Type="Self.DetailsValunteer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="StatusValunteer">
+        <PropertyRef Name="statusValunteerId" />
+      </Principal>
+      <Dependent Role="DetailsValunteer">
+        <PropertyRef Name="statusValunteerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Events_EventName">
+    <End Role="EventName" Type="Self.EventName" Multiplicity="0..1" />
+    <End Role="Events" Type="Self.Events" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EventName">
+        <PropertyRef Name="eventNameId" />
+      </Principal>
+      <Dependent Role="Events">
+        <PropertyRef Name="eventNameId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Events_EventStatus">
+    <End Role="EventStatus" Type="Self.EventStatus" Multiplicity="1" />
+    <End Role="Events" Type="Self.Events" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EventStatus">
+        <PropertyRef Name="eventStatusId" />
+      </Principal>
+      <Dependent Role="Events">
+        <PropertyRef Name="eventStatusId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HistoryStatusValunteer_Valunteer">
+    <End Role="Valunteer" Type="Self.Valunteer" Multiplicity="0..1" />
+    <End Role="HistoryStatusValunteer" Type="Self.HistoryStatusValunteer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Valunteer">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="HistoryStatusValunteer">
+        <PropertyRef Name="volunteerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Valunteer_DetailsValunteer">
+    <End Role="DetailsValunteer" Type="Self.DetailsValunteer" Multiplicity="0..1" />
+    <End Role="Valunteer" Type="Self.Valunteer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DetailsValunteer">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Valunteer">
+        <PropertyRef Name="volunteerDetailId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Valunteer_PersonalSituation">
+    <End Role="PersonalSituation" Type="Self.PersonalSituation" Multiplicity="0..1" />
+    <End Role="Valunteer" Type="Self.Valunteer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PersonalSituation">
+        <PropertyRef Name="personalSituationId" />
+      </Principal>
+      <Dependent Role="Valunteer">
+        <PropertyRef Name="personalSituationId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ValunteerEvent_Events">
+    <End Role="Events" Type="Self.Events" Multiplicity="1" />
+    <End Role="ValunteerEvent" Type="Self.ValunteerEvent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Events">
+        <PropertyRef Name="eventCode" />
+      </Principal>
+      <Dependent Role="ValunteerEvent">
+        <PropertyRef Name="eventCodeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ValunteerEvent_ValunteerStatusInEvent">
+    <End Role="ValunteerStatusInEvent" Type="Self.ValunteerStatusInEvent" Multiplicity="0..1" />
+    <End Role="ValunteerEvent" Type="Self.ValunteerEvent" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ValunteerStatusInEvent">
+        <PropertyRef Name="valunteerStatusInEventId" />
+      </Principal>
+      <Dependent Role="ValunteerEvent">
+        <PropertyRef Name="valunteerStatusInEventId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="HashomrimProjectModelStoreContainer">
+    <EntitySet Name="Callling" EntityType="Self.Callling" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DetailsValunteer" EntityType="Self.DetailsValunteer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventName" EntityType="Self.EventName" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Events" EntityType="Self.Events" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventStatus" EntityType="Self.EventStatus" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FreindlyEvent" EntityType="Self.FreindlyEvent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HistoryStatusValunteer" EntityType="Self.HistoryStatusValunteer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Mokdan" EntityType="Self.Mokdan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PersonalSituation" EntityType="Self.PersonalSituation" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="StatusValunteer" EntityType="Self.StatusValunteer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Valunteer" EntityType="Self.Valunteer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ValunteerEvent" EntityType="Self.ValunteerEvent" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ValunteerStatusInEvent" EntityType="Self.ValunteerStatusInEvent" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Callling_Events" Association="Self.FK_Callling_Events">
+      <End Role="Events" EntitySet="Events" />
+      <End Role="Callling" EntitySet="Callling" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DetailsValunteer_StatusValunteer" Association="Self.FK_DetailsValunteer_StatusValunteer">
+      <End Role="StatusValunteer" EntitySet="StatusValunteer" />
+      <End Role="DetailsValunteer" EntitySet="DetailsValunteer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Events_EventName" Association="Self.FK_Events_EventName">
+      <End Role="EventName" EntitySet="EventName" />
+      <End Role="Events" EntitySet="Events" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Events_EventStatus" Association="Self.FK_Events_EventStatus">
+      <End Role="EventStatus" EntitySet="EventStatus" />
+      <End Role="Events" EntitySet="Events" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HistoryStatusValunteer_Valunteer" Association="Self.FK_HistoryStatusValunteer_Valunteer">
+      <End Role="Valunteer" EntitySet="Valunteer" />
+      <End Role="HistoryStatusValunteer" EntitySet="HistoryStatusValunteer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Valunteer_DetailsValunteer" Association="Self.FK_Valunteer_DetailsValunteer">
+      <End Role="DetailsValunteer" EntitySet="DetailsValunteer" />
+      <End Role="Valunteer" EntitySet="Valunteer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Valunteer_PersonalSituation" Association="Self.FK_Valunteer_PersonalSituation">
+      <End Role="PersonalSituation" EntitySet="PersonalSituation" />
+      <End Role="Valunteer" EntitySet="Valunteer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ValunteerEvent_Events" Association="Self.FK_ValunteerEvent_Events">
+      <End Role="Events" EntitySet="Events" />
+      <End Role="ValunteerEvent" EntitySet="ValunteerEvent" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ValunteerEvent_ValunteerStatusInEvent" Association="Self.FK_ValunteerEvent_ValunteerStatusInEvent">
+      <End Role="ValunteerStatusInEvent" EntitySet="ValunteerStatusInEvent" />
+      <End Role="ValunteerEvent" EntitySet="ValunteerEvent" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

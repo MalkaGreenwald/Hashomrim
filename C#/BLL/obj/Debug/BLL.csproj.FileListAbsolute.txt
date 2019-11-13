@@ -1,0 +1,384 @@
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\BLL.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\BLL.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\DAL.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\obj\Debug\BLL.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\obj\Debug\BLL.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\BLL\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\BLL.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\BLL.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\BLL.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\DAL.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\obj\Debug\BLL.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\BLL.dll.config
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\DTO.dll
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\DTO.pdb
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\DTO.dll.config
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\projectFinall\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\projectFinall\test\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\projectFinall\test\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\projectFinall\test\BLL\obj\Debug\BLL.pdb
+D:\test\BLL\bin\Debug\BLL.dll.config
+D:\test\BLL\bin\Debug\BLL.dll
+D:\test\BLL\bin\Debug\BLL.pdb
+D:\test\BLL\bin\Debug\DAL.dll
+D:\test\BLL\bin\Debug\DTO.dll
+D:\test\BLL\bin\Debug\EntityFramework.dll
+D:\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\test\BLL\bin\Debug\DAL.pdb
+D:\test\BLL\bin\Debug\DAL.dll.config
+D:\test\BLL\bin\Debug\DTO.pdb
+D:\test\BLL\bin\Debug\DTO.dll.config
+D:\test\BLL\bin\Debug\EntityFramework.xml
+D:\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\test\BLL\obj\Debug\BLL.dll
+D:\test\BLL\obj\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\obj\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\BLL\obj\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\obj\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\BLL\obj\Debug\BLL.pdb
+D:\23.6\test\BLL\bin\Debug\BLL.dll.config
+D:\23.6\test\BLL\bin\Debug\BLL.dll
+D:\23.6\test\BLL\bin\Debug\BLL.pdb
+D:\23.6\test\BLL\bin\Debug\DAL.dll
+D:\23.6\test\BLL\bin\Debug\DTO.dll
+D:\23.6\test\BLL\bin\Debug\EntityFramework.dll
+D:\23.6\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\23.6\test\BLL\bin\Debug\DAL.pdb
+D:\23.6\test\BLL\bin\Debug\DAL.dll.config
+D:\23.6\test\BLL\bin\Debug\DTO.pdb
+D:\23.6\test\BLL\bin\Debug\DTO.dll.config
+D:\23.6\test\BLL\bin\Debug\EntityFramework.xml
+D:\23.6\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\23.6\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\23.6\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\23.6\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\23.6\test\BLL\obj\Debug\BLL.dll
+D:\23.6\test\BLL\obj\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\obj\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\BLL\obj\Debug\BLL.pdb
+D:\2.7\test\BLL\bin\Debug\BLL.dll.config
+D:\2.7\test\BLL\bin\Debug\BLL.dll
+D:\2.7\test\BLL\bin\Debug\BLL.pdb
+D:\2.7\test\BLL\bin\Debug\DAL.dll
+D:\2.7\test\BLL\bin\Debug\DTO.dll
+D:\2.7\test\BLL\bin\Debug\EntityFramework.dll
+D:\2.7\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\2.7\test\BLL\bin\Debug\DAL.pdb
+D:\2.7\test\BLL\bin\Debug\DAL.dll.config
+D:\2.7\test\BLL\bin\Debug\DTO.pdb
+D:\2.7\test\BLL\bin\Debug\DTO.dll.config
+D:\2.7\test\BLL\bin\Debug\EntityFramework.xml
+D:\2.7\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\2.7\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\2.7\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\2.7\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\2.7\test\BLL\obj\Debug\BLL.dll
+D:\2.7\test\BLL\obj\Debug\BLL.pdb
+D:\7.7\test\BLL\bin\Debug\BLL.dll.config
+D:\7.7\test\BLL\bin\Debug\BLL.dll
+D:\7.7\test\BLL\bin\Debug\BLL.pdb
+D:\7.7\test\BLL\bin\Debug\DAL.dll
+D:\7.7\test\BLL\bin\Debug\DTO.dll
+D:\7.7\test\BLL\bin\Debug\EntityFramework.dll
+D:\7.7\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\7.7\test\BLL\bin\Debug\DAL.pdb
+D:\7.7\test\BLL\bin\Debug\DAL.dll.config
+D:\7.7\test\BLL\bin\Debug\DTO.pdb
+D:\7.7\test\BLL\bin\Debug\DTO.dll.config
+D:\7.7\test\BLL\bin\Debug\EntityFramework.xml
+D:\7.7\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\7.7\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\7.7\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\7.7\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\7.7\test\BLL\obj\Debug\BLL.dll
+D:\7.7\test\BLL\obj\Debug\BLL.pdb
+D:\9.7\test\BLL\bin\Debug\BLL.dll.config
+D:\9.7\test\BLL\bin\Debug\BLL.dll
+D:\9.7\test\BLL\bin\Debug\BLL.pdb
+D:\9.7\test\BLL\bin\Debug\DAL.dll
+D:\9.7\test\BLL\bin\Debug\DTO.dll
+D:\9.7\test\BLL\bin\Debug\EntityFramework.dll
+D:\9.7\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\9.7\test\BLL\bin\Debug\DAL.pdb
+D:\9.7\test\BLL\bin\Debug\DAL.dll.config
+D:\9.7\test\BLL\bin\Debug\DTO.pdb
+D:\9.7\test\BLL\bin\Debug\DTO.dll.config
+D:\9.7\test\BLL\bin\Debug\EntityFramework.xml
+D:\9.7\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\9.7\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\9.7\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\9.7\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\9.7\test\BLL\obj\Debug\BLL.dll
+D:\9.7\test\BLL\obj\Debug\BLL.pdb
+H:\9.7\test\BLL\bin\Debug\BLL.dll.config
+H:\9.7\test\BLL\bin\Debug\BLL.dll
+H:\9.7\test\BLL\bin\Debug\BLL.pdb
+H:\9.7\test\BLL\bin\Debug\DAL.dll
+H:\9.7\test\BLL\bin\Debug\DTO.dll
+H:\9.7\test\BLL\bin\Debug\EntityFramework.dll
+H:\9.7\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+H:\9.7\test\BLL\bin\Debug\DAL.pdb
+H:\9.7\test\BLL\bin\Debug\DAL.dll.config
+H:\9.7\test\BLL\bin\Debug\DTO.pdb
+H:\9.7\test\BLL\bin\Debug\DTO.dll.config
+H:\9.7\test\BLL\bin\Debug\EntityFramework.xml
+H:\9.7\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+H:\9.7\test\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+H:\9.7\test\BLL\obj\Debug\BLL.dll
+H:\9.7\test\BLL\obj\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\obj\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\BLL\obj\Debug\BLL.pdb
+D:\7.8\test\BLL\bin\Debug\BLL.dll.config
+D:\7.8\test\BLL\bin\Debug\BLL.dll
+D:\7.8\test\BLL\bin\Debug\BLL.pdb
+D:\7.8\test\BLL\bin\Debug\DAL.dll
+D:\7.8\test\BLL\bin\Debug\DTO.dll
+D:\7.8\test\BLL\bin\Debug\EntityFramework.dll
+D:\7.8\test\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\7.8\test\BLL\bin\Debug\DAL.pdb
+D:\7.8\test\BLL\bin\Debug\DAL.dll.config
+D:\7.8\test\BLL\bin\Debug\DTO.pdb
+D:\7.8\test\BLL\bin\Debug\DTO.dll.config
+D:\7.8\test\BLL\bin\Debug\EntityFramework.xml
+D:\7.8\test\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\7.8\test\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\7.8\test\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\7.8\test\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\7.8\test\BLL\obj\Debug\BLL.dll
+D:\7.8\test\BLL\obj\Debug\BLL.pdb
+F:\רחלי\c#\BLL\bin\Debug\BLL.dll.config
+F:\רחלי\c#\BLL\bin\Debug\BLL.dll
+F:\רחלי\c#\BLL\bin\Debug\BLL.pdb
+F:\רחלי\c#\BLL\bin\Debug\DAL.dll
+F:\רחלי\c#\BLL\bin\Debug\DTO.dll
+F:\רחלי\c#\BLL\bin\Debug\EntityFramework.dll
+F:\רחלי\c#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\רחלי\c#\BLL\bin\Debug\DAL.pdb
+F:\רחלי\c#\BLL\bin\Debug\DAL.dll.config
+F:\רחלי\c#\BLL\bin\Debug\DTO.pdb
+F:\רחלי\c#\BLL\bin\Debug\DTO.dll.config
+F:\רחלי\c#\BLL\bin\Debug\EntityFramework.xml
+F:\רחלי\c#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\רחלי\c#\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\רחלי\c#\BLL\obj\Debug\BLL.dll
+F:\רחלי\c#\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\BLL.dll.config
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\DTO.dll
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\DTO.pdb
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\DTO.dll.config
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\רחל\c#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\רחל\c#\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\רחל\c#\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\רחל\c#\BLL\obj\Debug\BLL.pdb
+G:\רחל\c#\BLL\bin\Debug\BLL.dll.config
+G:\רחל\c#\BLL\bin\Debug\BLL.dll
+G:\רחל\c#\BLL\bin\Debug\BLL.pdb
+G:\רחל\c#\BLL\bin\Debug\DAL.dll
+G:\רחל\c#\BLL\bin\Debug\DTO.dll
+G:\רחל\c#\BLL\bin\Debug\EntityFramework.dll
+G:\רחל\c#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+G:\רחל\c#\BLL\bin\Debug\DAL.pdb
+G:\רחל\c#\BLL\bin\Debug\DAL.dll.config
+G:\רחל\c#\BLL\bin\Debug\DTO.pdb
+G:\רחל\c#\BLL\bin\Debug\DTO.dll.config
+G:\רחל\c#\BLL\bin\Debug\EntityFramework.xml
+G:\רחל\c#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+G:\רחל\c#\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\רחל\c#\BLL\obj\Debug\BLL.dll
+G:\רחל\c#\BLL\obj\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\obj\Debug\BLL.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\obj\Debug\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\BLL\obj\Debug\BLL.pdb
+D:\29.10\c#\BLL\bin\Debug\BLL.dll.config
+D:\29.10\c#\BLL\bin\Debug\BLL.dll
+D:\29.10\c#\BLL\bin\Debug\BLL.pdb
+D:\29.10\c#\BLL\bin\Debug\DAL.dll
+D:\29.10\c#\BLL\bin\Debug\DTO.dll
+D:\29.10\c#\BLL\bin\Debug\EntityFramework.dll
+D:\29.10\c#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\29.10\c#\BLL\bin\Debug\DAL.pdb
+D:\29.10\c#\BLL\bin\Debug\DAL.dll.config
+D:\29.10\c#\BLL\bin\Debug\DTO.pdb
+D:\29.10\c#\BLL\bin\Debug\DTO.dll.config
+D:\29.10\c#\BLL\bin\Debug\EntityFramework.xml
+D:\29.10\c#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\29.10\c#\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\29.10\c#\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\29.10\c#\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\29.10\c#\BLL\obj\Debug\BLL.dll
+D:\29.10\c#\BLL\obj\Debug\BLL.pdb
+D:\29.10\c#\BLL\bin\Debug\System.Device.Portable.dll
+D:\5.11\C#\BLL\bin\Debug\BLL.dll.config
+D:\5.11\C#\BLL\bin\Debug\BLL.dll
+D:\5.11\C#\BLL\bin\Debug\BLL.pdb
+D:\5.11\C#\BLL\bin\Debug\DAL.dll
+D:\5.11\C#\BLL\bin\Debug\DTO.dll
+D:\5.11\C#\BLL\bin\Debug\EntityFramework.dll
+D:\5.11\C#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\5.11\C#\BLL\bin\Debug\System.Device.Portable.dll
+D:\5.11\C#\BLL\bin\Debug\DAL.pdb
+D:\5.11\C#\BLL\bin\Debug\DAL.dll.config
+D:\5.11\C#\BLL\bin\Debug\DTO.pdb
+D:\5.11\C#\BLL\bin\Debug\DTO.dll.config
+D:\5.11\C#\BLL\bin\Debug\EntityFramework.xml
+D:\5.11\C#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\5.11\C#\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\5.11\C#\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\5.11\C#\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\5.11\C#\BLL\obj\Debug\BLL.dll
+D:\5.11\C#\BLL\obj\Debug\BLL.pdb
+C:\Users\user\Desktop\C#\BLL\bin\Debug\BLL.dll.config
+C:\Users\user\Desktop\C#\BLL\bin\Debug\BLL.dll
+C:\Users\user\Desktop\C#\BLL\bin\Debug\BLL.pdb
+C:\Users\user\Desktop\C#\BLL\bin\Debug\DAL.dll
+C:\Users\user\Desktop\C#\BLL\bin\Debug\DTO.dll
+C:\Users\user\Desktop\C#\BLL\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\C#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\C#\BLL\bin\Debug\System.Device.Portable.dll
+C:\Users\user\Desktop\C#\BLL\bin\Debug\DAL.pdb
+C:\Users\user\Desktop\C#\BLL\bin\Debug\DAL.dll.config
+C:\Users\user\Desktop\C#\BLL\bin\Debug\DTO.pdb
+C:\Users\user\Desktop\C#\BLL\bin\Debug\DTO.dll.config
+C:\Users\user\Desktop\C#\BLL\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\C#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\C#\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\BLL\obj\Debug\BLL.dll
+C:\Users\user\Desktop\C#\BLL\obj\Debug\BLL.pdb
+D:\11.11\C#\BLL\bin\Debug\BLL.dll.config
+D:\11.11\C#\BLL\bin\Debug\BLL.dll
+D:\11.11\C#\BLL\bin\Debug\BLL.pdb
+D:\11.11\C#\BLL\bin\Debug\DAL.dll
+D:\11.11\C#\BLL\bin\Debug\DTO.dll
+D:\11.11\C#\BLL\bin\Debug\EntityFramework.dll
+D:\11.11\C#\BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\11.11\C#\BLL\bin\Debug\System.Device.Portable.dll
+D:\11.11\C#\BLL\bin\Debug\DAL.pdb
+D:\11.11\C#\BLL\bin\Debug\DAL.dll.config
+D:\11.11\C#\BLL\bin\Debug\DTO.pdb
+D:\11.11\C#\BLL\bin\Debug\DTO.dll.config
+D:\11.11\C#\BLL\bin\Debug\EntityFramework.xml
+D:\11.11\C#\BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\11.11\C#\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\11.11\C#\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\11.11\C#\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\11.11\C#\BLL\obj\Debug\BLL.dll
+D:\11.11\C#\BLL\obj\Debug\BLL.pdb

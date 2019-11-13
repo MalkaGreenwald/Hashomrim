@@ -1,0 +1,80 @@
+
+<ion-header color="primary" >
+  <!-- style="height: 62px;" -->
+  <ion-toolbar color="primary">
+    <ion-buttons dir="rtl" slot="start">
+      <ion-menu-button ></ion-menu-button>
+    
+    </ion-buttons>   
+    <ion-title>
+    <div style="margin-right: 65px; margin-left: -4px;  position: absolute;"> מסך ראשי</div>
+      
+    <div>
+        <ion-icon *ngIf="!clickBall"  (click)="silentNotification()" name="notifications-off" style="color: white;font-size:150%;margin-right: 240px;"></ion-icon>
+        <ion-icon *ngIf="clickBall" (click)="silentNotification()" name="notifications" style="color: white; font-size: 150%; margin-right: 240px;"></ion-icon>
+      </div>
+      </ion-title>
+   
+
+ 
+  <!-- <ion-icon *ngIf="clickBall" (click)="silentNotification()" name="notifications"
+ style=" color: #e0b500;
+  font-size: 26px;
+  direction: ltr;
+  /* margin-right: 360px; */
+  position: relative;
+  right: 354px;
+  top: -42px;
+  z-index: 12; "></ion-icon>  
+ 
+    <ion-icon *ngIf="!clickBall"  (click)="silentNotification()" name="notifications-off" 
+    style=" color: #e0b500;
+    font-size: 26px;
+    direction: ltr;
+    /* margin-right: 360px; */
+    position: relative;
+    right: 354px;
+    top: -42px;
+    z-index: 12; "  
+    ></ion-icon>  -->
+  </ion-toolbar>
+</ion-header>
+
+<ion-content  > 
+ 
+<!--     color: #e0b500;
+    font-size: 26px;
+    direction: ltr;
+    /* margin-right: 360px; */
+    position: relative;
+    right: 354px;
+    top: -42px;
+    z-index: 12; -->
+
+<div [ngClass]="clickBall == true ? 'green': 'red'" >
+   <div style="margin-right: 9px;">{{volunteer.firstName}} {{volunteer.lastName }}</div> 
+   <div style="margin-top: -18px; margin-right: 162px;">{{volunteerDetails.statusValunteer}} </div> 
+   <div style="margin-top: -18px;margin-right: 292px;">{{getDate| date: 'hh:mm ' }} </div>
+</div> 
+
+  <div *ngFor="let item of eventList" (click)="openEventDetails(item)" [ngClass]="clickBall == true ? 'green1': 'red1'" >
+    <div *ngIf="item.eventStatusId==1 ||item.eventStatusId==2" >   
+<div style="margin-right: 216px;"> לפני {{funcDate(item.startCallingDate)}}  דקות</div>
+<div style="font-size: large;">{{item.eventName}} 
+</div>
+      
+        <div>
+  {{item.stringAddress}} 
+</div>
+  <div>מרחק</div>
+    </div>
+  </div>
+
+  <!-- <div style="margin-top: 50%;ound-color: red;" *ngIf="!clickBall">
+
+  
+    
+    ההודעות מושתקות ל24 שעות</div> -->
+
+
+</ion-content>

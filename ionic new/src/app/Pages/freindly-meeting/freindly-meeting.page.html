@@ -1,0 +1,42 @@
+<ion-header color="primary" >
+  <!-- style="height: 62px;" -->
+  <ion-toolbar color="primary">
+    <ion-buttons dir="rtl" slot="start">
+      <ion-menu-button ></ion-menu-button>
+    
+    </ion-buttons>   
+    <ion-title>
+    <div style="margin-right: 65px; margin-left: -4px;  position: absolute;">מפגש חברתי</div>
+      </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  
+
+  <div *ngFor="let item of friendlyMeetingList">
+    <div style="
+    
+    border: aquamarine;
+    background: white; 
+    border-bottom-color: red;
+    border-bottom-style: solid;
+    width: 87%;
+    /* margin-left: 4%; */
+    margin-bottom: 24px;
+    margin-right: 23px;
+    margin-top: 24px;" > 
+
+  <div style="margin-right: 37%;">{{item.freindlyDescription}} </div>
+       <br> 
+  <div>
+<div> שעה:{{item.hour}} </div> 
+<div> תאריך:{{item.date|  date: 'dd/mm/yyyy' }} </div>
+<div>כתובת:</div>
+ <ion-button style="margin-right: 56%;margin-top: -30%;" (click)="okIcaming(item)">אישור השתתפות</ion-button>
+</div>
+    </div>
+  </div>
+
+
+</ion-content>

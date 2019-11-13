@@ -1,0 +1,46 @@
+
+  <ion-split-pane>
+      <ion-menu contentId="content">
+
+
+        <ion-header>
+          <ion-toolbar color="primary">
+            <ion-buttons slot="start">
+              <ion-back-button style="transform: rotate(180deg);" ></ion-back-button>
+            </ion-buttons>
+            <ion-title>בית</ion-title>
+          </ion-toolbar>
+         </ion-header>
+        
+<ion-content>
+    <ion-list>
+        <ion-menu-toggle auto-hide="false" *ngFor="let p of page">
+          <ion-item [routerLink]="p.url" routerDirection="root"  [class.active-item]="selectedPath=== p.url">
+            {{p.title}}
+          </ion-item>
+        </ion-menu-toggle>
+      </ion-list>
+  <!-- *ngIf="volunteer.VolunteerDetail.StatusValunteerId===3" -->
+<!-- <div  style="background-color:yellow">
+    {{volunteer.firstName     }} {{volunteer.lastName            }} {{volunteer.VolunteerDetail.statusValunteer}} {{getDate| date: 'hh:mm ' }}
+  
+  </div> -->
+  <!-- <ion-item *ngFor="let item of eventList" (click)="openEventDetails(item)">
+    <ion-item  *ngIf="item.eventStatusId==1 ||item.eventStatusId==2" style="color:red;"> 
+  {{item.eventName}} 
+        <br /> 
+  {{item.stringAddress}} 
+  <br/> -->
+ 
+
+<!-- {{moment().subtract( item.startCallingDate, getDate).calendar}} -->
+<!-- </ion-item>
+  </ion-item> -->
+</ion-content>
+</ion-menu>
+    
+<ion-router-outlet id="content" main></ion-router-outlet>
+
+</ion-split-pane>
+
+  

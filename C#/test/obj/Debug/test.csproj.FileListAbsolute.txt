@@ -1,0 +1,2579 @@
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\test.dll.config
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\test.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\test.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\WebGrease.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\obj\Debug\test.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\obj\Debug\test.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\BLL.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\BLL.pdb
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\לפרררוווווויייייקקקקקקקטטטטטטטטטט\test\test\bin\DTO.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\test.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\test.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\test.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\BLL.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\DTO.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\EntityFramework.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Cors.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\WebGrease.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\DAL.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\BLL.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\BLL.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\DTO.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\DTO.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\EntityFramework.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\DAL.pdb
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\bin\DAL.dll.config
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\obj\Debug\test.dll
+Y:\group 1 תשעט\כהן רחלי\Project\test\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\projectFinall\test\test\bin\ApplicationInsights.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\test.dll.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\test.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\test.pdb
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\csc.exe
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\csi.exe
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\projectFinall\test\test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\BLL.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\DTO.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\EntityFramework.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Http.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\WebGrease.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\DAL.dll
+C:\Users\user\Desktop\projectFinall\test\test\bin\BLL.pdb
+C:\Users\user\Desktop\projectFinall\test\test\bin\BLL.dll.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\DTO.pdb
+C:\Users\user\Desktop\projectFinall\test\test\bin\DTO.dll.config
+C:\Users\user\Desktop\projectFinall\test\test\bin\EntityFramework.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Http.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\projectFinall\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\projectFinall\test\test\bin\DAL.pdb
+C:\Users\user\Desktop\projectFinall\test\test\bin\DAL.dll.config
+C:\Users\user\Desktop\projectFinall\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\projectFinall\test\test\obj\Debug\test.dll
+C:\Users\user\Desktop\projectFinall\test\test\obj\Debug\test.pdb
+D:\test\test\bin\ApplicationInsights.config
+D:\test\test\bin\test.dll.config
+D:\test\test\bin\test.dll
+D:\test\test\bin\test.pdb
+D:\test\test\bin\roslyn\csc.exe
+D:\test\test\bin\roslyn\csc.exe.config
+D:\test\test\bin\roslyn\csc.rsp
+D:\test\test\bin\roslyn\csi.exe
+D:\test\test\bin\roslyn\csi.exe.config
+D:\test\test\bin\roslyn\csi.rsp
+D:\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test\test\bin\roslyn\System.AppContext.dll
+D:\test\test\bin\roslyn\System.Collections.Immutable.dll
+D:\test\test\bin\roslyn\System.Console.dll
+D:\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test\test\bin\roslyn\System.IO.Compression.dll
+D:\test\test\bin\roslyn\System.IO.FileSystem.dll
+D:\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\test\test\bin\roslyn\System.IO.Pipes.dll
+D:\test\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\test\test\bin\roslyn\System.Security.AccessControl.dll
+D:\test\test\bin\roslyn\System.Security.Claims.dll
+D:\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\test\test\bin\roslyn\System.ValueTuple.dll
+D:\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\test\test\bin\roslyn\System.Xml.XPath.dll
+D:\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\test\test\bin\roslyn\vbc.exe
+D:\test\test\bin\roslyn\vbc.exe.config
+D:\test\test\bin\roslyn\vbc.rsp
+D:\test\test\bin\roslyn\VBCSCompiler.exe
+D:\test\test\bin\roslyn\VBCSCompiler.exe.config
+D:\test\test\bin\Antlr3.Runtime.dll
+D:\test\test\bin\BLL.dll
+D:\test\test\bin\DTO.dll
+D:\test\test\bin\EntityFramework.dll
+D:\test\test\bin\EntityFramework.SqlServer.dll
+D:\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\test\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\test\test\bin\Microsoft.AI.Web.dll
+D:\test\test\bin\Microsoft.AI.WindowsServer.dll
+D:\test\test\bin\Microsoft.ApplicationInsights.dll
+D:\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test\test\bin\Microsoft.Web.Infrastructure.dll
+D:\test\test\bin\Newtonsoft.Json.dll
+D:\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\test\test\bin\System.Net.Http.Formatting.dll
+D:\test\test\bin\System.Web.Cors.dll
+D:\test\test\bin\System.Web.Helpers.dll
+D:\test\test\bin\System.Web.Http.Cors.dll
+D:\test\test\bin\System.Web.Http.dll
+D:\test\test\bin\System.Web.Http.WebHost.dll
+D:\test\test\bin\System.Web.Mvc.dll
+D:\test\test\bin\System.Web.Optimization.dll
+D:\test\test\bin\System.Web.Razor.dll
+D:\test\test\bin\System.Web.WebPages.Deployment.dll
+D:\test\test\bin\System.Web.WebPages.dll
+D:\test\test\bin\System.Web.WebPages.Razor.dll
+D:\test\test\bin\WebGrease.dll
+D:\test\test\bin\DAL.dll
+D:\test\test\bin\BLL.pdb
+D:\test\test\bin\BLL.dll.config
+D:\test\test\bin\DTO.pdb
+D:\test\test\bin\DTO.dll.config
+D:\test\test\bin\EntityFramework.xml
+D:\test\test\bin\EntityFramework.SqlServer.xml
+D:\test\test\bin\System.Net.Http.Formatting.xml
+D:\test\test\bin\System.Web.Http.xml
+D:\test\test\bin\System.Web.Http.Cors.xml
+D:\test\test\bin\Newtonsoft.Json.xml
+D:\test\test\bin\System.Web.Helpers.xml
+D:\test\test\bin\System.Web.Http.WebHost.xml
+D:\test\test\bin\System.Web.Mvc.xml
+D:\test\test\bin\System.Web.Optimization.xml
+D:\test\test\bin\System.Web.Razor.xml
+D:\test\test\bin\System.Web.WebPages.xml
+D:\test\test\bin\System.Web.WebPages.Deployment.xml
+D:\test\test\bin\System.Web.WebPages.Razor.xml
+D:\test\test\bin\Antlr3.Runtime.pdb
+D:\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\test\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\test\test\bin\Microsoft.AI.WindowsServer.xml
+D:\test\test\bin\Microsoft.AI.Web.xml
+D:\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test\test\bin\DAL.pdb
+D:\test\test\bin\DAL.dll.config
+D:\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\test\test\obj\Debug\test.csproj.CopyComplete
+D:\test\test\obj\Debug\test.dll
+D:\test\test\obj\Debug\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\test.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\WebGrease.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\bin\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\obj\Debug\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\18.6\test\test\obj\Debug\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\test.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\WebGrease.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\bin\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\obj\Debug\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\23.6\test\test\obj\Debug\test.pdb
+D:\23.6\test\test\bin\ApplicationInsights.config
+D:\23.6\test\test\bin\test.dll.config
+D:\23.6\test\test\bin\test.dll
+D:\23.6\test\test\bin\test.pdb
+D:\23.6\test\test\bin\roslyn\csc.exe
+D:\23.6\test\test\bin\roslyn\csc.exe.config
+D:\23.6\test\test\bin\roslyn\csc.rsp
+D:\23.6\test\test\bin\roslyn\csi.exe
+D:\23.6\test\test\bin\roslyn\csi.exe.config
+D:\23.6\test\test\bin\roslyn\csi.rsp
+D:\23.6\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\23.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\23.6\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\23.6\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\23.6\test\test\bin\roslyn\System.AppContext.dll
+D:\23.6\test\test\bin\roslyn\System.Collections.Immutable.dll
+D:\23.6\test\test\bin\roslyn\System.Console.dll
+D:\23.6\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\23.6\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\23.6\test\test\bin\roslyn\System.IO.Compression.dll
+D:\23.6\test\test\bin\roslyn\System.IO.FileSystem.dll
+D:\23.6\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\23.6\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\23.6\test\test\bin\roslyn\System.IO.Pipes.dll
+D:\23.6\test\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\23.6\test\test\bin\roslyn\System.Security.AccessControl.dll
+D:\23.6\test\test\bin\roslyn\System.Security.Claims.dll
+D:\23.6\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\23.6\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\23.6\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\23.6\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\23.6\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\23.6\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\23.6\test\test\bin\roslyn\System.ValueTuple.dll
+D:\23.6\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\23.6\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\23.6\test\test\bin\roslyn\System.Xml.XPath.dll
+D:\23.6\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\23.6\test\test\bin\roslyn\vbc.exe
+D:\23.6\test\test\bin\roslyn\vbc.exe.config
+D:\23.6\test\test\bin\roslyn\vbc.rsp
+D:\23.6\test\test\bin\roslyn\VBCSCompiler.exe
+D:\23.6\test\test\bin\roslyn\VBCSCompiler.exe.config
+D:\23.6\test\test\bin\Antlr3.Runtime.dll
+D:\23.6\test\test\bin\BLL.dll
+D:\23.6\test\test\bin\DTO.dll
+D:\23.6\test\test\bin\EntityFramework.dll
+D:\23.6\test\test\bin\EntityFramework.SqlServer.dll
+D:\23.6\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\23.6\test\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\23.6\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\23.6\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\23.6\test\test\bin\Microsoft.AI.Web.dll
+D:\23.6\test\test\bin\Microsoft.AI.WindowsServer.dll
+D:\23.6\test\test\bin\Microsoft.ApplicationInsights.dll
+D:\23.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\23.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\23.6\test\test\bin\Microsoft.Web.Infrastructure.dll
+D:\23.6\test\test\bin\Newtonsoft.Json.dll
+D:\23.6\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\23.6\test\test\bin\System.Net.Http.Formatting.dll
+D:\23.6\test\test\bin\System.Web.Cors.dll
+D:\23.6\test\test\bin\System.Web.Helpers.dll
+D:\23.6\test\test\bin\System.Web.Http.Cors.dll
+D:\23.6\test\test\bin\System.Web.Http.dll
+D:\23.6\test\test\bin\System.Web.Http.WebHost.dll
+D:\23.6\test\test\bin\System.Web.Mvc.dll
+D:\23.6\test\test\bin\System.Web.Optimization.dll
+D:\23.6\test\test\bin\System.Web.Razor.dll
+D:\23.6\test\test\bin\System.Web.WebPages.Deployment.dll
+D:\23.6\test\test\bin\System.Web.WebPages.dll
+D:\23.6\test\test\bin\System.Web.WebPages.Razor.dll
+D:\23.6\test\test\bin\WebGrease.dll
+D:\23.6\test\test\bin\DAL.dll
+D:\23.6\test\test\bin\BLL.pdb
+D:\23.6\test\test\bin\BLL.dll.config
+D:\23.6\test\test\bin\DTO.pdb
+D:\23.6\test\test\bin\DTO.dll.config
+D:\23.6\test\test\bin\EntityFramework.xml
+D:\23.6\test\test\bin\EntityFramework.SqlServer.xml
+D:\23.6\test\test\bin\System.Net.Http.Formatting.xml
+D:\23.6\test\test\bin\System.Web.Http.xml
+D:\23.6\test\test\bin\System.Web.Http.Cors.xml
+D:\23.6\test\test\bin\Newtonsoft.Json.xml
+D:\23.6\test\test\bin\System.Web.Helpers.xml
+D:\23.6\test\test\bin\System.Web.Http.WebHost.xml
+D:\23.6\test\test\bin\System.Web.Mvc.xml
+D:\23.6\test\test\bin\System.Web.Optimization.xml
+D:\23.6\test\test\bin\System.Web.Razor.xml
+D:\23.6\test\test\bin\System.Web.WebPages.xml
+D:\23.6\test\test\bin\System.Web.WebPages.Deployment.xml
+D:\23.6\test\test\bin\System.Web.WebPages.Razor.xml
+D:\23.6\test\test\bin\Antlr3.Runtime.pdb
+D:\23.6\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\23.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\23.6\test\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\23.6\test\test\bin\Microsoft.AI.WindowsServer.xml
+D:\23.6\test\test\bin\Microsoft.AI.Web.xml
+D:\23.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\23.6\test\test\bin\DAL.pdb
+D:\23.6\test\test\bin\DAL.dll.config
+D:\23.6\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\23.6\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\23.6\test\test\obj\Debug\test.csproj.CopyComplete
+D:\23.6\test\test\obj\Debug\test.dll
+D:\23.6\test\test\obj\Debug\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\test.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\WebGrease.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\bin\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\obj\Debug\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\25.6\test\test\obj\Debug\test.pdb
+D:\2.7\test\test\bin\ApplicationInsights.config
+D:\2.7\test\test\bin\test.dll.config
+D:\2.7\test\test\bin\test.dll
+D:\2.7\test\test\bin\test.pdb
+D:\2.7\test\test\bin\roslyn\csc.exe
+D:\2.7\test\test\bin\roslyn\csc.exe.config
+D:\2.7\test\test\bin\roslyn\csc.rsp
+D:\2.7\test\test\bin\roslyn\csi.exe
+D:\2.7\test\test\bin\roslyn\csi.exe.config
+D:\2.7\test\test\bin\roslyn\csi.rsp
+D:\2.7\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\2.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\2.7\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\2.7\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\2.7\test\test\bin\roslyn\System.AppContext.dll
+D:\2.7\test\test\bin\roslyn\System.Collections.Immutable.dll
+D:\2.7\test\test\bin\roslyn\System.Console.dll
+D:\2.7\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\2.7\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\2.7\test\test\bin\roslyn\System.IO.Compression.dll
+D:\2.7\test\test\bin\roslyn\System.IO.FileSystem.dll
+D:\2.7\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\2.7\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\2.7\test\test\bin\roslyn\System.IO.Pipes.dll
+D:\2.7\test\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\2.7\test\test\bin\roslyn\System.Security.AccessControl.dll
+D:\2.7\test\test\bin\roslyn\System.Security.Claims.dll
+D:\2.7\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\2.7\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\2.7\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\2.7\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\2.7\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\2.7\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\2.7\test\test\bin\roslyn\System.ValueTuple.dll
+D:\2.7\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\2.7\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\2.7\test\test\bin\roslyn\System.Xml.XPath.dll
+D:\2.7\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\2.7\test\test\bin\roslyn\vbc.exe
+D:\2.7\test\test\bin\roslyn\vbc.exe.config
+D:\2.7\test\test\bin\roslyn\vbc.rsp
+D:\2.7\test\test\bin\roslyn\VBCSCompiler.exe
+D:\2.7\test\test\bin\roslyn\VBCSCompiler.exe.config
+D:\2.7\test\test\bin\Antlr3.Runtime.dll
+D:\2.7\test\test\bin\BLL.dll
+D:\2.7\test\test\bin\DTO.dll
+D:\2.7\test\test\bin\EntityFramework.dll
+D:\2.7\test\test\bin\EntityFramework.SqlServer.dll
+D:\2.7\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\2.7\test\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\2.7\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\2.7\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\2.7\test\test\bin\Microsoft.AI.Web.dll
+D:\2.7\test\test\bin\Microsoft.AI.WindowsServer.dll
+D:\2.7\test\test\bin\Microsoft.ApplicationInsights.dll
+D:\2.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\2.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\2.7\test\test\bin\Microsoft.Web.Infrastructure.dll
+D:\2.7\test\test\bin\Newtonsoft.Json.dll
+D:\2.7\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\2.7\test\test\bin\System.Net.Http.Formatting.dll
+D:\2.7\test\test\bin\System.Web.Cors.dll
+D:\2.7\test\test\bin\System.Web.Helpers.dll
+D:\2.7\test\test\bin\System.Web.Http.Cors.dll
+D:\2.7\test\test\bin\System.Web.Http.dll
+D:\2.7\test\test\bin\System.Web.Http.WebHost.dll
+D:\2.7\test\test\bin\System.Web.Mvc.dll
+D:\2.7\test\test\bin\System.Web.Optimization.dll
+D:\2.7\test\test\bin\System.Web.Razor.dll
+D:\2.7\test\test\bin\System.Web.WebPages.Deployment.dll
+D:\2.7\test\test\bin\System.Web.WebPages.dll
+D:\2.7\test\test\bin\System.Web.WebPages.Razor.dll
+D:\2.7\test\test\bin\WebGrease.dll
+D:\2.7\test\test\bin\DAL.dll
+D:\2.7\test\test\bin\BLL.pdb
+D:\2.7\test\test\bin\BLL.dll.config
+D:\2.7\test\test\bin\DTO.pdb
+D:\2.7\test\test\bin\DTO.dll.config
+D:\2.7\test\test\bin\EntityFramework.xml
+D:\2.7\test\test\bin\EntityFramework.SqlServer.xml
+D:\2.7\test\test\bin\System.Net.Http.Formatting.xml
+D:\2.7\test\test\bin\System.Web.Http.xml
+D:\2.7\test\test\bin\System.Web.Http.Cors.xml
+D:\2.7\test\test\bin\Newtonsoft.Json.xml
+D:\2.7\test\test\bin\System.Web.Helpers.xml
+D:\2.7\test\test\bin\System.Web.Http.WebHost.xml
+D:\2.7\test\test\bin\System.Web.Mvc.xml
+D:\2.7\test\test\bin\System.Web.Optimization.xml
+D:\2.7\test\test\bin\System.Web.Razor.xml
+D:\2.7\test\test\bin\System.Web.WebPages.xml
+D:\2.7\test\test\bin\System.Web.WebPages.Deployment.xml
+D:\2.7\test\test\bin\System.Web.WebPages.Razor.xml
+D:\2.7\test\test\bin\Antlr3.Runtime.pdb
+D:\2.7\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\2.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\2.7\test\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\2.7\test\test\bin\Microsoft.AI.WindowsServer.xml
+D:\2.7\test\test\bin\Microsoft.AI.Web.xml
+D:\2.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\2.7\test\test\bin\DAL.pdb
+D:\2.7\test\test\bin\DAL.dll.config
+D:\2.7\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\2.7\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\2.7\test\test\obj\Debug\test.csproj.CopyComplete
+D:\2.7\test\test\obj\Debug\test.dll
+D:\2.7\test\test\obj\Debug\test.pdb
+D:\7.7\test\test\bin\ApplicationInsights.config
+D:\7.7\test\test\bin\test.dll.config
+D:\7.7\test\test\bin\test.dll
+D:\7.7\test\test\bin\test.pdb
+D:\7.7\test\test\bin\roslyn\csc.exe
+D:\7.7\test\test\bin\roslyn\csc.exe.config
+D:\7.7\test\test\bin\roslyn\csc.rsp
+D:\7.7\test\test\bin\roslyn\csi.exe
+D:\7.7\test\test\bin\roslyn\csi.exe.config
+D:\7.7\test\test\bin\roslyn\csi.rsp
+D:\7.7\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7.7\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7.7\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7.7\test\test\bin\roslyn\System.AppContext.dll
+D:\7.7\test\test\bin\roslyn\System.Collections.Immutable.dll
+D:\7.7\test\test\bin\roslyn\System.Console.dll
+D:\7.7\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7.7\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7.7\test\test\bin\roslyn\System.IO.Compression.dll
+D:\7.7\test\test\bin\roslyn\System.IO.FileSystem.dll
+D:\7.7\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7.7\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\7.7\test\test\bin\roslyn\System.IO.Pipes.dll
+D:\7.7\test\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\7.7\test\test\bin\roslyn\System.Security.AccessControl.dll
+D:\7.7\test\test\bin\roslyn\System.Security.Claims.dll
+D:\7.7\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7.7\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7.7\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7.7\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7.7\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\7.7\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7.7\test\test\bin\roslyn\System.ValueTuple.dll
+D:\7.7\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7.7\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7.7\test\test\bin\roslyn\System.Xml.XPath.dll
+D:\7.7\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7.7\test\test\bin\roslyn\vbc.exe
+D:\7.7\test\test\bin\roslyn\vbc.exe.config
+D:\7.7\test\test\bin\roslyn\vbc.rsp
+D:\7.7\test\test\bin\roslyn\VBCSCompiler.exe
+D:\7.7\test\test\bin\roslyn\VBCSCompiler.exe.config
+D:\7.7\test\test\bin\Antlr3.Runtime.dll
+D:\7.7\test\test\bin\BLL.dll
+D:\7.7\test\test\bin\DTO.dll
+D:\7.7\test\test\bin\EntityFramework.dll
+D:\7.7\test\test\bin\EntityFramework.SqlServer.dll
+D:\7.7\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\7.7\test\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\7.7\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\7.7\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\7.7\test\test\bin\Microsoft.AI.Web.dll
+D:\7.7\test\test\bin\Microsoft.AI.WindowsServer.dll
+D:\7.7\test\test\bin\Microsoft.ApplicationInsights.dll
+D:\7.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\7.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7.7\test\test\bin\Microsoft.Web.Infrastructure.dll
+D:\7.7\test\test\bin\Newtonsoft.Json.dll
+D:\7.7\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\7.7\test\test\bin\System.Net.Http.Formatting.dll
+D:\7.7\test\test\bin\System.Web.Cors.dll
+D:\7.7\test\test\bin\System.Web.Helpers.dll
+D:\7.7\test\test\bin\System.Web.Http.Cors.dll
+D:\7.7\test\test\bin\System.Web.Http.dll
+D:\7.7\test\test\bin\System.Web.Http.WebHost.dll
+D:\7.7\test\test\bin\System.Web.Mvc.dll
+D:\7.7\test\test\bin\System.Web.Optimization.dll
+D:\7.7\test\test\bin\System.Web.Razor.dll
+D:\7.7\test\test\bin\System.Web.WebPages.Deployment.dll
+D:\7.7\test\test\bin\System.Web.WebPages.dll
+D:\7.7\test\test\bin\System.Web.WebPages.Razor.dll
+D:\7.7\test\test\bin\WebGrease.dll
+D:\7.7\test\test\bin\DAL.dll
+D:\7.7\test\test\bin\BLL.pdb
+D:\7.7\test\test\bin\BLL.dll.config
+D:\7.7\test\test\bin\DTO.pdb
+D:\7.7\test\test\bin\DTO.dll.config
+D:\7.7\test\test\bin\EntityFramework.xml
+D:\7.7\test\test\bin\EntityFramework.SqlServer.xml
+D:\7.7\test\test\bin\System.Net.Http.Formatting.xml
+D:\7.7\test\test\bin\System.Web.Http.xml
+D:\7.7\test\test\bin\System.Web.Http.Cors.xml
+D:\7.7\test\test\bin\Newtonsoft.Json.xml
+D:\7.7\test\test\bin\System.Web.Helpers.xml
+D:\7.7\test\test\bin\System.Web.Http.WebHost.xml
+D:\7.7\test\test\bin\System.Web.Mvc.xml
+D:\7.7\test\test\bin\System.Web.Optimization.xml
+D:\7.7\test\test\bin\System.Web.Razor.xml
+D:\7.7\test\test\bin\System.Web.WebPages.xml
+D:\7.7\test\test\bin\System.Web.WebPages.Deployment.xml
+D:\7.7\test\test\bin\System.Web.WebPages.Razor.xml
+D:\7.7\test\test\bin\Antlr3.Runtime.pdb
+D:\7.7\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\7.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\7.7\test\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\7.7\test\test\bin\Microsoft.AI.WindowsServer.xml
+D:\7.7\test\test\bin\Microsoft.AI.Web.xml
+D:\7.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7.7\test\test\bin\DAL.pdb
+D:\7.7\test\test\bin\DAL.dll.config
+D:\7.7\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\7.7\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\7.7\test\test\obj\Debug\test.csproj.CopyComplete
+D:\7.7\test\test\obj\Debug\test.dll
+D:\7.7\test\test\obj\Debug\test.pdb
+D:\9.7\test\test\bin\ApplicationInsights.config
+D:\9.7\test\test\bin\test.dll.config
+D:\9.7\test\test\bin\test.dll
+D:\9.7\test\test\bin\test.pdb
+D:\9.7\test\test\bin\roslyn\csc.exe
+D:\9.7\test\test\bin\roslyn\csc.exe.config
+D:\9.7\test\test\bin\roslyn\csc.rsp
+D:\9.7\test\test\bin\roslyn\csi.exe
+D:\9.7\test\test\bin\roslyn\csi.exe.config
+D:\9.7\test\test\bin\roslyn\csi.rsp
+D:\9.7\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\9.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\9.7\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\9.7\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\9.7\test\test\bin\roslyn\System.AppContext.dll
+D:\9.7\test\test\bin\roslyn\System.Collections.Immutable.dll
+D:\9.7\test\test\bin\roslyn\System.Console.dll
+D:\9.7\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\9.7\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\9.7\test\test\bin\roslyn\System.IO.Compression.dll
+D:\9.7\test\test\bin\roslyn\System.IO.FileSystem.dll
+D:\9.7\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\9.7\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\9.7\test\test\bin\roslyn\System.IO.Pipes.dll
+D:\9.7\test\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\9.7\test\test\bin\roslyn\System.Security.AccessControl.dll
+D:\9.7\test\test\bin\roslyn\System.Security.Claims.dll
+D:\9.7\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\9.7\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\9.7\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\9.7\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\9.7\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\9.7\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\9.7\test\test\bin\roslyn\System.ValueTuple.dll
+D:\9.7\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\9.7\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\9.7\test\test\bin\roslyn\System.Xml.XPath.dll
+D:\9.7\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\9.7\test\test\bin\roslyn\vbc.exe
+D:\9.7\test\test\bin\roslyn\vbc.exe.config
+D:\9.7\test\test\bin\roslyn\vbc.rsp
+D:\9.7\test\test\bin\roslyn\VBCSCompiler.exe
+D:\9.7\test\test\bin\roslyn\VBCSCompiler.exe.config
+D:\9.7\test\test\bin\Antlr3.Runtime.dll
+D:\9.7\test\test\bin\BLL.dll
+D:\9.7\test\test\bin\DTO.dll
+D:\9.7\test\test\bin\EntityFramework.dll
+D:\9.7\test\test\bin\EntityFramework.SqlServer.dll
+D:\9.7\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\9.7\test\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\9.7\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\9.7\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\9.7\test\test\bin\Microsoft.AI.Web.dll
+D:\9.7\test\test\bin\Microsoft.AI.WindowsServer.dll
+D:\9.7\test\test\bin\Microsoft.ApplicationInsights.dll
+D:\9.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\9.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\9.7\test\test\bin\Microsoft.Web.Infrastructure.dll
+D:\9.7\test\test\bin\Newtonsoft.Json.dll
+D:\9.7\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\9.7\test\test\bin\System.Net.Http.Formatting.dll
+D:\9.7\test\test\bin\System.Web.Cors.dll
+D:\9.7\test\test\bin\System.Web.Helpers.dll
+D:\9.7\test\test\bin\System.Web.Http.Cors.dll
+D:\9.7\test\test\bin\System.Web.Http.dll
+D:\9.7\test\test\bin\System.Web.Http.WebHost.dll
+D:\9.7\test\test\bin\System.Web.Mvc.dll
+D:\9.7\test\test\bin\System.Web.Optimization.dll
+D:\9.7\test\test\bin\System.Web.Razor.dll
+D:\9.7\test\test\bin\System.Web.WebPages.Deployment.dll
+D:\9.7\test\test\bin\System.Web.WebPages.dll
+D:\9.7\test\test\bin\System.Web.WebPages.Razor.dll
+D:\9.7\test\test\bin\WebGrease.dll
+D:\9.7\test\test\bin\DAL.dll
+D:\9.7\test\test\bin\BLL.pdb
+D:\9.7\test\test\bin\BLL.dll.config
+D:\9.7\test\test\bin\DTO.pdb
+D:\9.7\test\test\bin\DTO.dll.config
+D:\9.7\test\test\bin\EntityFramework.xml
+D:\9.7\test\test\bin\EntityFramework.SqlServer.xml
+D:\9.7\test\test\bin\System.Net.Http.Formatting.xml
+D:\9.7\test\test\bin\System.Web.Http.xml
+D:\9.7\test\test\bin\System.Web.Http.Cors.xml
+D:\9.7\test\test\bin\Newtonsoft.Json.xml
+D:\9.7\test\test\bin\System.Web.Helpers.xml
+D:\9.7\test\test\bin\System.Web.Http.WebHost.xml
+D:\9.7\test\test\bin\System.Web.Mvc.xml
+D:\9.7\test\test\bin\System.Web.Optimization.xml
+D:\9.7\test\test\bin\System.Web.Razor.xml
+D:\9.7\test\test\bin\System.Web.WebPages.xml
+D:\9.7\test\test\bin\System.Web.WebPages.Deployment.xml
+D:\9.7\test\test\bin\System.Web.WebPages.Razor.xml
+D:\9.7\test\test\bin\Antlr3.Runtime.pdb
+D:\9.7\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\9.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\9.7\test\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\9.7\test\test\bin\Microsoft.AI.WindowsServer.xml
+D:\9.7\test\test\bin\Microsoft.AI.Web.xml
+D:\9.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\9.7\test\test\bin\DAL.pdb
+D:\9.7\test\test\bin\DAL.dll.config
+D:\9.7\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\9.7\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\9.7\test\test\obj\Debug\test.csproj.CopyComplete
+D:\9.7\test\test\obj\Debug\test.dll
+D:\9.7\test\test\obj\Debug\test.pdb
+H:\9.7\test\test\bin\ApplicationInsights.config
+H:\9.7\test\test\bin\test.dll.config
+H:\9.7\test\test\bin\test.dll
+H:\9.7\test\test\bin\test.pdb
+H:\9.7\test\test\bin\roslyn\csc.exe
+H:\9.7\test\test\bin\roslyn\csc.exe.config
+H:\9.7\test\test\bin\roslyn\csc.rsp
+H:\9.7\test\test\bin\roslyn\csi.exe
+H:\9.7\test\test\bin\roslyn\csi.exe.config
+H:\9.7\test\test\bin\roslyn\csi.rsp
+H:\9.7\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\9.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\9.7\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+H:\9.7\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\9.7\test\test\bin\roslyn\System.AppContext.dll
+H:\9.7\test\test\bin\roslyn\System.Collections.Immutable.dll
+H:\9.7\test\test\bin\roslyn\System.Console.dll
+H:\9.7\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\9.7\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\9.7\test\test\bin\roslyn\System.IO.Compression.dll
+H:\9.7\test\test\bin\roslyn\System.IO.FileSystem.dll
+H:\9.7\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\9.7\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\9.7\test\test\bin\roslyn\System.IO.Pipes.dll
+H:\9.7\test\test\bin\roslyn\System.Reflection.Metadata.dll
+H:\9.7\test\test\bin\roslyn\System.Security.AccessControl.dll
+H:\9.7\test\test\bin\roslyn\System.Security.Claims.dll
+H:\9.7\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\9.7\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\9.7\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\9.7\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\9.7\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+H:\9.7\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\9.7\test\test\bin\roslyn\System.ValueTuple.dll
+H:\9.7\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\9.7\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+H:\9.7\test\test\bin\roslyn\System.Xml.XPath.dll
+H:\9.7\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\9.7\test\test\bin\roslyn\vbc.exe
+H:\9.7\test\test\bin\roslyn\vbc.exe.config
+H:\9.7\test\test\bin\roslyn\vbc.rsp
+H:\9.7\test\test\bin\roslyn\VBCSCompiler.exe
+H:\9.7\test\test\bin\roslyn\VBCSCompiler.exe.config
+H:\9.7\test\test\bin\Antlr3.Runtime.dll
+H:\9.7\test\test\bin\BLL.dll
+H:\9.7\test\test\bin\DTO.dll
+H:\9.7\test\test\bin\EntityFramework.dll
+H:\9.7\test\test\bin\EntityFramework.SqlServer.dll
+H:\9.7\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+H:\9.7\test\test\bin\Microsoft.AI.DependencyCollector.dll
+H:\9.7\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\9.7\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\9.7\test\test\bin\Microsoft.AI.Web.dll
+H:\9.7\test\test\bin\Microsoft.AI.WindowsServer.dll
+H:\9.7\test\test\bin\Microsoft.ApplicationInsights.dll
+H:\9.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\9.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\9.7\test\test\bin\Microsoft.Web.Infrastructure.dll
+H:\9.7\test\test\bin\Newtonsoft.Json.dll
+H:\9.7\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+H:\9.7\test\test\bin\System.Net.Http.Formatting.dll
+H:\9.7\test\test\bin\System.Web.Cors.dll
+H:\9.7\test\test\bin\System.Web.Helpers.dll
+H:\9.7\test\test\bin\System.Web.Http.Cors.dll
+H:\9.7\test\test\bin\System.Web.Http.dll
+H:\9.7\test\test\bin\System.Web.Http.WebHost.dll
+H:\9.7\test\test\bin\System.Web.Mvc.dll
+H:\9.7\test\test\bin\System.Web.Optimization.dll
+H:\9.7\test\test\bin\System.Web.Razor.dll
+H:\9.7\test\test\bin\System.Web.WebPages.Deployment.dll
+H:\9.7\test\test\bin\System.Web.WebPages.dll
+H:\9.7\test\test\bin\System.Web.WebPages.Razor.dll
+H:\9.7\test\test\bin\WebGrease.dll
+H:\9.7\test\test\bin\DAL.dll
+H:\9.7\test\test\bin\BLL.pdb
+H:\9.7\test\test\bin\BLL.dll.config
+H:\9.7\test\test\bin\DTO.pdb
+H:\9.7\test\test\bin\DTO.dll.config
+H:\9.7\test\test\bin\EntityFramework.xml
+H:\9.7\test\test\bin\EntityFramework.SqlServer.xml
+H:\9.7\test\test\bin\System.Net.Http.Formatting.xml
+H:\9.7\test\test\bin\System.Web.Http.xml
+H:\9.7\test\test\bin\System.Web.Http.Cors.xml
+H:\9.7\test\test\bin\Newtonsoft.Json.xml
+H:\9.7\test\test\bin\System.Web.Helpers.xml
+H:\9.7\test\test\bin\System.Web.Http.WebHost.xml
+H:\9.7\test\test\bin\System.Web.Mvc.xml
+H:\9.7\test\test\bin\System.Web.Optimization.xml
+H:\9.7\test\test\bin\System.Web.Razor.xml
+H:\9.7\test\test\bin\System.Web.WebPages.xml
+H:\9.7\test\test\bin\System.Web.WebPages.Deployment.xml
+H:\9.7\test\test\bin\System.Web.WebPages.Razor.xml
+H:\9.7\test\test\bin\Antlr3.Runtime.pdb
+H:\9.7\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+H:\9.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\9.7\test\test\bin\Microsoft.AI.DependencyCollector.xml
+H:\9.7\test\test\bin\Microsoft.AI.WindowsServer.xml
+H:\9.7\test\test\bin\Microsoft.AI.Web.xml
+H:\9.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\9.7\test\test\bin\DAL.pdb
+H:\9.7\test\test\bin\DAL.dll.config
+H:\9.7\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+H:\9.7\test\test\obj\Debug\test.dll
+H:\9.7\test\test\obj\Debug\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\test.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\WebGrease.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\bin\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\obj\Debug\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\31.7\test\test\obj\Debug\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\test.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\WebGrease.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\bin\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\obj\Debug\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\הפרויקטים המעודכנים\6.8\test\test\obj\Debug\test.pdb
+D:\7.8\test\test\bin\ApplicationInsights.config
+D:\7.8\test\test\bin\test.dll.config
+D:\7.8\test\test\bin\test.dll
+D:\7.8\test\test\bin\test.pdb
+D:\7.8\test\test\bin\roslyn\csc.exe
+D:\7.8\test\test\bin\roslyn\csc.exe.config
+D:\7.8\test\test\bin\roslyn\csc.rsp
+D:\7.8\test\test\bin\roslyn\csi.exe
+D:\7.8\test\test\bin\roslyn\csi.exe.config
+D:\7.8\test\test\bin\roslyn\csi.rsp
+D:\7.8\test\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\7.8\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\7.8\test\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\7.8\test\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\7.8\test\test\bin\roslyn\System.AppContext.dll
+D:\7.8\test\test\bin\roslyn\System.Collections.Immutable.dll
+D:\7.8\test\test\bin\roslyn\System.Console.dll
+D:\7.8\test\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\7.8\test\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\7.8\test\test\bin\roslyn\System.IO.Compression.dll
+D:\7.8\test\test\bin\roslyn\System.IO.FileSystem.dll
+D:\7.8\test\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\7.8\test\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\7.8\test\test\bin\roslyn\System.IO.Pipes.dll
+D:\7.8\test\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\7.8\test\test\bin\roslyn\System.Security.AccessControl.dll
+D:\7.8\test\test\bin\roslyn\System.Security.Claims.dll
+D:\7.8\test\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\7.8\test\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\7.8\test\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\7.8\test\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\7.8\test\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\7.8\test\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\7.8\test\test\bin\roslyn\System.ValueTuple.dll
+D:\7.8\test\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\7.8\test\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\7.8\test\test\bin\roslyn\System.Xml.XPath.dll
+D:\7.8\test\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\7.8\test\test\bin\roslyn\vbc.exe
+D:\7.8\test\test\bin\roslyn\vbc.exe.config
+D:\7.8\test\test\bin\roslyn\vbc.rsp
+D:\7.8\test\test\bin\roslyn\VBCSCompiler.exe
+D:\7.8\test\test\bin\roslyn\VBCSCompiler.exe.config
+D:\7.8\test\test\bin\Antlr3.Runtime.dll
+D:\7.8\test\test\bin\BLL.dll
+D:\7.8\test\test\bin\DTO.dll
+D:\7.8\test\test\bin\EntityFramework.dll
+D:\7.8\test\test\bin\EntityFramework.SqlServer.dll
+D:\7.8\test\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\7.8\test\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\7.8\test\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\7.8\test\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\7.8\test\test\bin\Microsoft.AI.Web.dll
+D:\7.8\test\test\bin\Microsoft.AI.WindowsServer.dll
+D:\7.8\test\test\bin\Microsoft.ApplicationInsights.dll
+D:\7.8\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\7.8\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\7.8\test\test\bin\Microsoft.Web.Infrastructure.dll
+D:\7.8\test\test\bin\Newtonsoft.Json.dll
+D:\7.8\test\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\7.8\test\test\bin\System.Net.Http.Formatting.dll
+D:\7.8\test\test\bin\System.Web.Cors.dll
+D:\7.8\test\test\bin\System.Web.Helpers.dll
+D:\7.8\test\test\bin\System.Web.Http.Cors.dll
+D:\7.8\test\test\bin\System.Web.Http.dll
+D:\7.8\test\test\bin\System.Web.Http.WebHost.dll
+D:\7.8\test\test\bin\System.Web.Mvc.dll
+D:\7.8\test\test\bin\System.Web.Optimization.dll
+D:\7.8\test\test\bin\System.Web.Razor.dll
+D:\7.8\test\test\bin\System.Web.WebPages.Deployment.dll
+D:\7.8\test\test\bin\System.Web.WebPages.dll
+D:\7.8\test\test\bin\System.Web.WebPages.Razor.dll
+D:\7.8\test\test\bin\WebGrease.dll
+D:\7.8\test\test\bin\DAL.dll
+D:\7.8\test\test\bin\BLL.pdb
+D:\7.8\test\test\bin\BLL.dll.config
+D:\7.8\test\test\bin\DTO.pdb
+D:\7.8\test\test\bin\DTO.dll.config
+D:\7.8\test\test\bin\EntityFramework.xml
+D:\7.8\test\test\bin\EntityFramework.SqlServer.xml
+D:\7.8\test\test\bin\System.Net.Http.Formatting.xml
+D:\7.8\test\test\bin\System.Web.Http.xml
+D:\7.8\test\test\bin\System.Web.Http.Cors.xml
+D:\7.8\test\test\bin\Newtonsoft.Json.xml
+D:\7.8\test\test\bin\System.Web.Helpers.xml
+D:\7.8\test\test\bin\System.Web.Http.WebHost.xml
+D:\7.8\test\test\bin\System.Web.Mvc.xml
+D:\7.8\test\test\bin\System.Web.Optimization.xml
+D:\7.8\test\test\bin\System.Web.Razor.xml
+D:\7.8\test\test\bin\System.Web.WebPages.xml
+D:\7.8\test\test\bin\System.Web.WebPages.Deployment.xml
+D:\7.8\test\test\bin\System.Web.WebPages.Razor.xml
+D:\7.8\test\test\bin\Antlr3.Runtime.pdb
+D:\7.8\test\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\7.8\test\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\7.8\test\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\7.8\test\test\bin\Microsoft.AI.WindowsServer.xml
+D:\7.8\test\test\bin\Microsoft.AI.Web.xml
+D:\7.8\test\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\7.8\test\test\bin\DAL.pdb
+D:\7.8\test\test\bin\DAL.dll.config
+D:\7.8\test\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\7.8\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\7.8\test\test\obj\Debug\test.csproj.CopyComplete
+D:\7.8\test\test\obj\Debug\test.dll
+D:\7.8\test\test\obj\Debug\test.pdb
+F:\רחלי\c#\test\bin\ApplicationInsights.config
+F:\רחלי\c#\test\bin\test.dll.config
+F:\רחלי\c#\test\bin\test.dll
+F:\רחלי\c#\test\bin\test.pdb
+F:\רחלי\c#\test\bin\roslyn\csc.exe
+F:\רחלי\c#\test\bin\roslyn\csc.exe.config
+F:\רחלי\c#\test\bin\roslyn\csc.rsp
+F:\רחלי\c#\test\bin\roslyn\csi.exe
+F:\רחלי\c#\test\bin\roslyn\csi.exe.config
+F:\רחלי\c#\test\bin\roslyn\csi.rsp
+F:\רחלי\c#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\רחלי\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\רחלי\c#\test\bin\roslyn\Microsoft.Managed.Core.targets
+F:\רחלי\c#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\רחלי\c#\test\bin\roslyn\System.AppContext.dll
+F:\רחלי\c#\test\bin\roslyn\System.Collections.Immutable.dll
+F:\רחלי\c#\test\bin\roslyn\System.Console.dll
+F:\רחלי\c#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\רחלי\c#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\רחלי\c#\test\bin\roslyn\System.IO.Compression.dll
+F:\רחלי\c#\test\bin\roslyn\System.IO.FileSystem.dll
+F:\רחלי\c#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\רחלי\c#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\רחלי\c#\test\bin\roslyn\System.IO.Pipes.dll
+F:\רחלי\c#\test\bin\roslyn\System.Reflection.Metadata.dll
+F:\רחלי\c#\test\bin\roslyn\System.Security.AccessControl.dll
+F:\רחלי\c#\test\bin\roslyn\System.Security.Claims.dll
+F:\רחלי\c#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\רחלי\c#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\רחלי\c#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\רחלי\c#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\רחלי\c#\test\bin\roslyn\System.Security.Principal.Windows.dll
+F:\רחלי\c#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\רחלי\c#\test\bin\roslyn\System.ValueTuple.dll
+F:\רחלי\c#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\רחלי\c#\test\bin\roslyn\System.Xml.XmlDocument.dll
+F:\רחלי\c#\test\bin\roslyn\System.Xml.XPath.dll
+F:\רחלי\c#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\רחלי\c#\test\bin\roslyn\vbc.exe
+F:\רחלי\c#\test\bin\roslyn\vbc.exe.config
+F:\רחלי\c#\test\bin\roslyn\vbc.rsp
+F:\רחלי\c#\test\bin\roslyn\VBCSCompiler.exe
+F:\רחלי\c#\test\bin\roslyn\VBCSCompiler.exe.config
+F:\רחלי\c#\test\bin\Antlr3.Runtime.dll
+F:\רחלי\c#\test\bin\BLL.dll
+F:\רחלי\c#\test\bin\DTO.dll
+F:\רחלי\c#\test\bin\EntityFramework.dll
+F:\רחלי\c#\test\bin\EntityFramework.SqlServer.dll
+F:\רחלי\c#\test\bin\Microsoft.AI.Agent.Intercept.dll
+F:\רחלי\c#\test\bin\Microsoft.AI.DependencyCollector.dll
+F:\רחלי\c#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\רחלי\c#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\רחלי\c#\test\bin\Microsoft.AI.Web.dll
+F:\רחלי\c#\test\bin\Microsoft.AI.WindowsServer.dll
+F:\רחלי\c#\test\bin\Microsoft.ApplicationInsights.dll
+F:\רחלי\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\רחלי\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\רחלי\c#\test\bin\Microsoft.Web.Infrastructure.dll
+F:\רחלי\c#\test\bin\Newtonsoft.Json.dll
+F:\רחלי\c#\test\bin\System.Diagnostics.DiagnosticSource.dll
+F:\רחלי\c#\test\bin\System.Net.Http.Formatting.dll
+F:\רחלי\c#\test\bin\System.Web.Cors.dll
+F:\רחלי\c#\test\bin\System.Web.Helpers.dll
+F:\רחלי\c#\test\bin\System.Web.Http.Cors.dll
+F:\רחלי\c#\test\bin\System.Web.Http.dll
+F:\רחלי\c#\test\bin\System.Web.Http.WebHost.dll
+F:\רחלי\c#\test\bin\System.Web.Mvc.dll
+F:\רחלי\c#\test\bin\System.Web.Optimization.dll
+F:\רחלי\c#\test\bin\System.Web.Razor.dll
+F:\רחלי\c#\test\bin\System.Web.WebPages.Deployment.dll
+F:\רחלי\c#\test\bin\System.Web.WebPages.dll
+F:\רחלי\c#\test\bin\System.Web.WebPages.Razor.dll
+F:\רחלי\c#\test\bin\WebGrease.dll
+F:\רחלי\c#\test\bin\DAL.dll
+F:\רחלי\c#\test\bin\BLL.pdb
+F:\רחלי\c#\test\bin\BLL.dll.config
+F:\רחלי\c#\test\bin\DTO.pdb
+F:\רחלי\c#\test\bin\DTO.dll.config
+F:\רחלי\c#\test\bin\EntityFramework.xml
+F:\רחלי\c#\test\bin\EntityFramework.SqlServer.xml
+F:\רחלי\c#\test\bin\System.Net.Http.Formatting.xml
+F:\רחלי\c#\test\bin\System.Web.Http.xml
+F:\רחלי\c#\test\bin\System.Web.Http.Cors.xml
+F:\רחלי\c#\test\bin\Newtonsoft.Json.xml
+F:\רחלי\c#\test\bin\System.Web.Helpers.xml
+F:\רחלי\c#\test\bin\System.Web.Http.WebHost.xml
+F:\רחלי\c#\test\bin\System.Web.Mvc.xml
+F:\רחלי\c#\test\bin\System.Web.Optimization.xml
+F:\רחלי\c#\test\bin\System.Web.Razor.xml
+F:\רחלי\c#\test\bin\System.Web.WebPages.xml
+F:\רחלי\c#\test\bin\System.Web.WebPages.Deployment.xml
+F:\רחלי\c#\test\bin\System.Web.WebPages.Razor.xml
+F:\רחלי\c#\test\bin\Antlr3.Runtime.pdb
+F:\רחלי\c#\test\bin\System.Diagnostics.DiagnosticSource.xml
+F:\רחלי\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\רחלי\c#\test\bin\Microsoft.AI.DependencyCollector.xml
+F:\רחלי\c#\test\bin\Microsoft.AI.WindowsServer.xml
+F:\רחלי\c#\test\bin\Microsoft.AI.Web.xml
+F:\רחלי\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\רחלי\c#\test\bin\DAL.pdb
+F:\רחלי\c#\test\bin\DAL.dll.config
+F:\רחלי\c#\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+F:\רחלי\c#\test\obj\Debug\test.dll
+F:\רחלי\c#\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\רחל\c#\test\bin\ApplicationInsights.config
+C:\Users\user\Desktop\רחל\c#\test\bin\test.dll.config
+C:\Users\user\Desktop\רחל\c#\test\bin\test.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\test.pdb
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\csc.exe
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\csi.exe
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\רחל\c#\test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\רחל\c#\test\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\BLL.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\DTO.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\EntityFramework.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Http.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\WebGrease.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\DAL.dll
+C:\Users\user\Desktop\רחל\c#\test\bin\BLL.pdb
+C:\Users\user\Desktop\רחל\c#\test\bin\BLL.dll.config
+C:\Users\user\Desktop\רחל\c#\test\bin\DTO.pdb
+C:\Users\user\Desktop\רחל\c#\test\bin\DTO.dll.config
+C:\Users\user\Desktop\רחל\c#\test\bin\EntityFramework.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Http.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\רחל\c#\test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\רחל\c#\test\bin\DAL.pdb
+C:\Users\user\Desktop\רחל\c#\test\bin\DAL.dll.config
+C:\Users\user\Desktop\רחל\c#\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\רחל\c#\test\obj\Debug\test.dll
+C:\Users\user\Desktop\רחל\c#\test\obj\Debug\test.pdb
+G:\רחל\c#\test\bin\ApplicationInsights.config
+G:\רחל\c#\test\bin\test.dll.config
+G:\רחל\c#\test\bin\test.dll
+G:\רחל\c#\test\bin\test.pdb
+G:\רחל\c#\test\bin\roslyn\csc.exe
+G:\רחל\c#\test\bin\roslyn\csc.exe.config
+G:\רחל\c#\test\bin\roslyn\csc.rsp
+G:\רחל\c#\test\bin\roslyn\csi.exe
+G:\רחל\c#\test\bin\roslyn\csi.exe.config
+G:\רחל\c#\test\bin\roslyn\csi.rsp
+G:\רחל\c#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\רחל\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\רחל\c#\test\bin\roslyn\Microsoft.Managed.Core.targets
+G:\רחל\c#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\רחל\c#\test\bin\roslyn\System.AppContext.dll
+G:\רחל\c#\test\bin\roslyn\System.Collections.Immutable.dll
+G:\רחל\c#\test\bin\roslyn\System.Console.dll
+G:\רחל\c#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\רחל\c#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\רחל\c#\test\bin\roslyn\System.IO.Compression.dll
+G:\רחל\c#\test\bin\roslyn\System.IO.FileSystem.dll
+G:\רחל\c#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\רחל\c#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\רחל\c#\test\bin\roslyn\System.IO.Pipes.dll
+G:\רחל\c#\test\bin\roslyn\System.Reflection.Metadata.dll
+G:\רחל\c#\test\bin\roslyn\System.Security.AccessControl.dll
+G:\רחל\c#\test\bin\roslyn\System.Security.Claims.dll
+G:\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\רחל\c#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\רחל\c#\test\bin\roslyn\System.Security.Principal.Windows.dll
+G:\רחל\c#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\רחל\c#\test\bin\roslyn\System.ValueTuple.dll
+G:\רחל\c#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\רחל\c#\test\bin\roslyn\System.Xml.XmlDocument.dll
+G:\רחל\c#\test\bin\roslyn\System.Xml.XPath.dll
+G:\רחל\c#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\רחל\c#\test\bin\roslyn\vbc.exe
+G:\רחל\c#\test\bin\roslyn\vbc.exe.config
+G:\רחל\c#\test\bin\roslyn\vbc.rsp
+G:\רחל\c#\test\bin\roslyn\VBCSCompiler.exe
+G:\רחל\c#\test\bin\roslyn\VBCSCompiler.exe.config
+G:\רחל\c#\test\bin\Antlr3.Runtime.dll
+G:\רחל\c#\test\bin\BLL.dll
+G:\רחל\c#\test\bin\DTO.dll
+G:\רחל\c#\test\bin\EntityFramework.dll
+G:\רחל\c#\test\bin\EntityFramework.SqlServer.dll
+G:\רחל\c#\test\bin\Microsoft.AI.Agent.Intercept.dll
+G:\רחל\c#\test\bin\Microsoft.AI.DependencyCollector.dll
+G:\רחל\c#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\רחל\c#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\רחל\c#\test\bin\Microsoft.AI.Web.dll
+G:\רחל\c#\test\bin\Microsoft.AI.WindowsServer.dll
+G:\רחל\c#\test\bin\Microsoft.ApplicationInsights.dll
+G:\רחל\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\רחל\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\רחל\c#\test\bin\Microsoft.Web.Infrastructure.dll
+G:\רחל\c#\test\bin\Newtonsoft.Json.dll
+G:\רחל\c#\test\bin\System.Diagnostics.DiagnosticSource.dll
+G:\רחל\c#\test\bin\System.Net.Http.Formatting.dll
+G:\רחל\c#\test\bin\System.Web.Cors.dll
+G:\רחל\c#\test\bin\System.Web.Helpers.dll
+G:\רחל\c#\test\bin\System.Web.Http.Cors.dll
+G:\רחל\c#\test\bin\System.Web.Http.dll
+G:\רחל\c#\test\bin\System.Web.Http.WebHost.dll
+G:\רחל\c#\test\bin\System.Web.Mvc.dll
+G:\רחל\c#\test\bin\System.Web.Optimization.dll
+G:\רחל\c#\test\bin\System.Web.Razor.dll
+G:\רחל\c#\test\bin\System.Web.WebPages.Deployment.dll
+G:\רחל\c#\test\bin\System.Web.WebPages.dll
+G:\רחל\c#\test\bin\System.Web.WebPages.Razor.dll
+G:\רחל\c#\test\bin\WebGrease.dll
+G:\רחל\c#\test\bin\DAL.dll
+G:\רחל\c#\test\bin\BLL.pdb
+G:\רחל\c#\test\bin\BLL.dll.config
+G:\רחל\c#\test\bin\DTO.pdb
+G:\רחל\c#\test\bin\DTO.dll.config
+G:\רחל\c#\test\bin\EntityFramework.xml
+G:\רחל\c#\test\bin\EntityFramework.SqlServer.xml
+G:\רחל\c#\test\bin\System.Net.Http.Formatting.xml
+G:\רחל\c#\test\bin\System.Web.Http.xml
+G:\רחל\c#\test\bin\System.Web.Http.Cors.xml
+G:\רחל\c#\test\bin\Newtonsoft.Json.xml
+G:\רחל\c#\test\bin\System.Web.Helpers.xml
+G:\רחל\c#\test\bin\System.Web.Http.WebHost.xml
+G:\רחל\c#\test\bin\System.Web.Mvc.xml
+G:\רחל\c#\test\bin\System.Web.Optimization.xml
+G:\רחל\c#\test\bin\System.Web.Razor.xml
+G:\רחל\c#\test\bin\System.Web.WebPages.xml
+G:\רחל\c#\test\bin\System.Web.WebPages.Deployment.xml
+G:\רחל\c#\test\bin\System.Web.WebPages.Razor.xml
+G:\רחל\c#\test\bin\Antlr3.Runtime.pdb
+G:\רחל\c#\test\bin\System.Diagnostics.DiagnosticSource.xml
+G:\רחל\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\רחל\c#\test\bin\Microsoft.AI.DependencyCollector.xml
+G:\רחל\c#\test\bin\Microsoft.AI.WindowsServer.xml
+G:\רחל\c#\test\bin\Microsoft.AI.Web.xml
+G:\רחל\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\רחל\c#\test\bin\DAL.pdb
+G:\רחל\c#\test\bin\DAL.dll.config
+G:\רחל\c#\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\רחל\c#\test\obj\Debug\test.dll
+G:\רחל\c#\test\obj\Debug\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\ApplicationInsights.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\test.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\test.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\csc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\csc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\csc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\csi.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\csi.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\csi.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.Managed.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.AppContext.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Collections.Immutable.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Console.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.IO.Compression.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.IO.FileSystem.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.IO.Pipes.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Reflection.Metadata.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Security.AccessControl.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Security.Claims.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.ValueTuple.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Xml.XPath.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\vbc.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\vbc.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\vbc.rsp
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\VBCSCompiler.exe
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\roslyn\VBCSCompiler.exe.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Antlr3.Runtime.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\BLL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\DTO.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\EntityFramework.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\EntityFramework.SqlServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.DependencyCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.Web.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.WindowsServer.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.ApplicationInsights.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.Web.Infrastructure.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Newtonsoft.Json.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Diagnostics.DiagnosticSource.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Net.Http.Formatting.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Helpers.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Http.Cors.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Http.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Http.WebHost.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Mvc.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Optimization.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.WebPages.Deployment.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.WebPages.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.WebPages.Razor.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\WebGrease.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\DAL.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\BLL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\BLL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\DTO.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\DTO.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\EntityFramework.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\EntityFramework.SqlServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Net.Http.Formatting.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Http.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Http.Cors.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Newtonsoft.Json.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Helpers.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Http.WebHost.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Mvc.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Optimization.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.WebPages.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.WebPages.Deployment.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Web.WebPages.Razor.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Antlr3.Runtime.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\System.Diagnostics.DiagnosticSource.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.DependencyCollector.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.WindowsServer.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.AI.Web.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\DAL.pdb
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\bin\DAL.dll.config
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\obj\Debug\test.csprojAssemblyReference.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\obj\Debug\test.csproj.CopyComplete
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\obj\Debug\test.dll
+Y:\group 1 תשעט\סימונובסקי הודיה\רחל\c#\test\obj\Debug\test.pdb
+D:\29.10\c#\test\bin\ApplicationInsights.config
+D:\29.10\c#\test\bin\test.dll.config
+D:\29.10\c#\test\bin\test.dll
+D:\29.10\c#\test\bin\test.pdb
+D:\29.10\c#\test\bin\roslyn\csc.exe
+D:\29.10\c#\test\bin\roslyn\csc.exe.config
+D:\29.10\c#\test\bin\roslyn\csc.rsp
+D:\29.10\c#\test\bin\roslyn\csi.exe
+D:\29.10\c#\test\bin\roslyn\csi.exe.config
+D:\29.10\c#\test\bin\roslyn\csi.rsp
+D:\29.10\c#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\29.10\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\29.10\c#\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\29.10\c#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\29.10\c#\test\bin\roslyn\System.AppContext.dll
+D:\29.10\c#\test\bin\roslyn\System.Collections.Immutable.dll
+D:\29.10\c#\test\bin\roslyn\System.Console.dll
+D:\29.10\c#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\29.10\c#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\29.10\c#\test\bin\roslyn\System.IO.Compression.dll
+D:\29.10\c#\test\bin\roslyn\System.IO.FileSystem.dll
+D:\29.10\c#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\29.10\c#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\29.10\c#\test\bin\roslyn\System.IO.Pipes.dll
+D:\29.10\c#\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\29.10\c#\test\bin\roslyn\System.Security.AccessControl.dll
+D:\29.10\c#\test\bin\roslyn\System.Security.Claims.dll
+D:\29.10\c#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\29.10\c#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\29.10\c#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\29.10\c#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\29.10\c#\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\29.10\c#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\29.10\c#\test\bin\roslyn\System.ValueTuple.dll
+D:\29.10\c#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\29.10\c#\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\29.10\c#\test\bin\roslyn\System.Xml.XPath.dll
+D:\29.10\c#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\29.10\c#\test\bin\roslyn\vbc.exe
+D:\29.10\c#\test\bin\roslyn\vbc.exe.config
+D:\29.10\c#\test\bin\roslyn\vbc.rsp
+D:\29.10\c#\test\bin\roslyn\VBCSCompiler.exe
+D:\29.10\c#\test\bin\roslyn\VBCSCompiler.exe.config
+D:\29.10\c#\test\bin\Antlr3.Runtime.dll
+D:\29.10\c#\test\bin\BLL.dll
+D:\29.10\c#\test\bin\DTO.dll
+D:\29.10\c#\test\bin\EntityFramework.dll
+D:\29.10\c#\test\bin\EntityFramework.SqlServer.dll
+D:\29.10\c#\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\29.10\c#\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\29.10\c#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\29.10\c#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\29.10\c#\test\bin\Microsoft.AI.Web.dll
+D:\29.10\c#\test\bin\Microsoft.AI.WindowsServer.dll
+D:\29.10\c#\test\bin\Microsoft.ApplicationInsights.dll
+D:\29.10\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\29.10\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\29.10\c#\test\bin\Microsoft.Web.Infrastructure.dll
+D:\29.10\c#\test\bin\Newtonsoft.Json.dll
+D:\29.10\c#\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\29.10\c#\test\bin\System.Net.Http.Formatting.dll
+D:\29.10\c#\test\bin\System.Web.Cors.dll
+D:\29.10\c#\test\bin\System.Web.Helpers.dll
+D:\29.10\c#\test\bin\System.Web.Http.Cors.dll
+D:\29.10\c#\test\bin\System.Web.Http.dll
+D:\29.10\c#\test\bin\System.Web.Http.WebHost.dll
+D:\29.10\c#\test\bin\System.Web.Mvc.dll
+D:\29.10\c#\test\bin\System.Web.Optimization.dll
+D:\29.10\c#\test\bin\System.Web.Razor.dll
+D:\29.10\c#\test\bin\System.Web.WebPages.Deployment.dll
+D:\29.10\c#\test\bin\System.Web.WebPages.dll
+D:\29.10\c#\test\bin\System.Web.WebPages.Razor.dll
+D:\29.10\c#\test\bin\WebGrease.dll
+D:\29.10\c#\test\bin\DAL.dll
+D:\29.10\c#\test\bin\BLL.pdb
+D:\29.10\c#\test\bin\BLL.dll.config
+D:\29.10\c#\test\bin\DTO.pdb
+D:\29.10\c#\test\bin\DTO.dll.config
+D:\29.10\c#\test\bin\EntityFramework.xml
+D:\29.10\c#\test\bin\EntityFramework.SqlServer.xml
+D:\29.10\c#\test\bin\System.Net.Http.Formatting.xml
+D:\29.10\c#\test\bin\System.Web.Http.xml
+D:\29.10\c#\test\bin\System.Web.Http.Cors.xml
+D:\29.10\c#\test\bin\Newtonsoft.Json.xml
+D:\29.10\c#\test\bin\System.Web.Helpers.xml
+D:\29.10\c#\test\bin\System.Web.Http.WebHost.xml
+D:\29.10\c#\test\bin\System.Web.Mvc.xml
+D:\29.10\c#\test\bin\System.Web.Optimization.xml
+D:\29.10\c#\test\bin\System.Web.Razor.xml
+D:\29.10\c#\test\bin\System.Web.WebPages.xml
+D:\29.10\c#\test\bin\System.Web.WebPages.Deployment.xml
+D:\29.10\c#\test\bin\System.Web.WebPages.Razor.xml
+D:\29.10\c#\test\bin\Antlr3.Runtime.pdb
+D:\29.10\c#\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\29.10\c#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\29.10\c#\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\29.10\c#\test\bin\Microsoft.AI.WindowsServer.xml
+D:\29.10\c#\test\bin\Microsoft.AI.Web.xml
+D:\29.10\c#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\29.10\c#\test\bin\DAL.pdb
+D:\29.10\c#\test\bin\DAL.dll.config
+D:\29.10\c#\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\29.10\c#\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\29.10\c#\test\obj\Debug\test.csproj.CopyComplete
+D:\29.10\c#\test\obj\Debug\test.dll
+D:\29.10\c#\test\obj\Debug\test.pdb
+D:\29.10\c#\test\bin\System.Device.Portable.dll
+D:\5.11\C#\test\bin\ApplicationInsights.config
+D:\5.11\C#\test\bin\test.dll.config
+D:\5.11\C#\test\bin\test.dll
+D:\5.11\C#\test\bin\test.pdb
+D:\5.11\C#\test\bin\roslyn\csc.exe
+D:\5.11\C#\test\bin\roslyn\csc.exe.config
+D:\5.11\C#\test\bin\roslyn\csc.rsp
+D:\5.11\C#\test\bin\roslyn\csi.exe
+D:\5.11\C#\test\bin\roslyn\csi.exe.config
+D:\5.11\C#\test\bin\roslyn\csi.rsp
+D:\5.11\C#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\5.11\C#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\5.11\C#\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\5.11\C#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\5.11\C#\test\bin\roslyn\System.AppContext.dll
+D:\5.11\C#\test\bin\roslyn\System.Collections.Immutable.dll
+D:\5.11\C#\test\bin\roslyn\System.Console.dll
+D:\5.11\C#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\5.11\C#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\5.11\C#\test\bin\roslyn\System.IO.Compression.dll
+D:\5.11\C#\test\bin\roslyn\System.IO.FileSystem.dll
+D:\5.11\C#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\5.11\C#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\5.11\C#\test\bin\roslyn\System.IO.Pipes.dll
+D:\5.11\C#\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\5.11\C#\test\bin\roslyn\System.Security.AccessControl.dll
+D:\5.11\C#\test\bin\roslyn\System.Security.Claims.dll
+D:\5.11\C#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\5.11\C#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\5.11\C#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\5.11\C#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\5.11\C#\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\5.11\C#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\5.11\C#\test\bin\roslyn\System.ValueTuple.dll
+D:\5.11\C#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\5.11\C#\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\5.11\C#\test\bin\roslyn\System.Xml.XPath.dll
+D:\5.11\C#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\5.11\C#\test\bin\roslyn\vbc.exe
+D:\5.11\C#\test\bin\roslyn\vbc.exe.config
+D:\5.11\C#\test\bin\roslyn\vbc.rsp
+D:\5.11\C#\test\bin\roslyn\VBCSCompiler.exe
+D:\5.11\C#\test\bin\roslyn\VBCSCompiler.exe.config
+D:\5.11\C#\test\bin\Antlr3.Runtime.dll
+D:\5.11\C#\test\bin\BLL.dll
+D:\5.11\C#\test\bin\DTO.dll
+D:\5.11\C#\test\bin\EntityFramework.dll
+D:\5.11\C#\test\bin\EntityFramework.SqlServer.dll
+D:\5.11\C#\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\5.11\C#\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\5.11\C#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\5.11\C#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\5.11\C#\test\bin\Microsoft.AI.Web.dll
+D:\5.11\C#\test\bin\Microsoft.AI.WindowsServer.dll
+D:\5.11\C#\test\bin\Microsoft.ApplicationInsights.dll
+D:\5.11\C#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\5.11\C#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\5.11\C#\test\bin\Microsoft.Web.Infrastructure.dll
+D:\5.11\C#\test\bin\Newtonsoft.Json.dll
+D:\5.11\C#\test\bin\System.Device.Portable.dll
+D:\5.11\C#\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\5.11\C#\test\bin\System.Net.Http.Formatting.dll
+D:\5.11\C#\test\bin\System.Web.Cors.dll
+D:\5.11\C#\test\bin\System.Web.Helpers.dll
+D:\5.11\C#\test\bin\System.Web.Http.Cors.dll
+D:\5.11\C#\test\bin\System.Web.Http.dll
+D:\5.11\C#\test\bin\System.Web.Http.WebHost.dll
+D:\5.11\C#\test\bin\System.Web.Mvc.dll
+D:\5.11\C#\test\bin\System.Web.Optimization.dll
+D:\5.11\C#\test\bin\System.Web.Razor.dll
+D:\5.11\C#\test\bin\System.Web.WebPages.Deployment.dll
+D:\5.11\C#\test\bin\System.Web.WebPages.dll
+D:\5.11\C#\test\bin\System.Web.WebPages.Razor.dll
+D:\5.11\C#\test\bin\WebGrease.dll
+D:\5.11\C#\test\bin\DAL.dll
+D:\5.11\C#\test\bin\BLL.pdb
+D:\5.11\C#\test\bin\BLL.dll.config
+D:\5.11\C#\test\bin\DTO.pdb
+D:\5.11\C#\test\bin\DTO.dll.config
+D:\5.11\C#\test\bin\EntityFramework.xml
+D:\5.11\C#\test\bin\EntityFramework.SqlServer.xml
+D:\5.11\C#\test\bin\System.Net.Http.Formatting.xml
+D:\5.11\C#\test\bin\System.Web.Http.xml
+D:\5.11\C#\test\bin\System.Web.Http.Cors.xml
+D:\5.11\C#\test\bin\Newtonsoft.Json.xml
+D:\5.11\C#\test\bin\System.Web.Helpers.xml
+D:\5.11\C#\test\bin\System.Web.Http.WebHost.xml
+D:\5.11\C#\test\bin\System.Web.Mvc.xml
+D:\5.11\C#\test\bin\System.Web.Optimization.xml
+D:\5.11\C#\test\bin\System.Web.Razor.xml
+D:\5.11\C#\test\bin\System.Web.WebPages.xml
+D:\5.11\C#\test\bin\System.Web.WebPages.Deployment.xml
+D:\5.11\C#\test\bin\System.Web.WebPages.Razor.xml
+D:\5.11\C#\test\bin\Antlr3.Runtime.pdb
+D:\5.11\C#\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\5.11\C#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\5.11\C#\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\5.11\C#\test\bin\Microsoft.AI.WindowsServer.xml
+D:\5.11\C#\test\bin\Microsoft.AI.Web.xml
+D:\5.11\C#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\5.11\C#\test\bin\DAL.pdb
+D:\5.11\C#\test\bin\DAL.dll.config
+D:\5.11\C#\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\5.11\C#\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\5.11\C#\test\obj\Debug\test.csproj.CopyComplete
+D:\5.11\C#\test\obj\Debug\test.dll
+D:\5.11\C#\test\obj\Debug\test.pdb
+C:\Users\user\Desktop\C#\test\bin\ApplicationInsights.config
+C:\Users\user\Desktop\C#\test\bin\test.dll.config
+C:\Users\user\Desktop\C#\test\bin\test.dll
+C:\Users\user\Desktop\C#\test\bin\test.pdb
+C:\Users\user\Desktop\C#\test\bin\roslyn\csc.exe
+C:\Users\user\Desktop\C#\test\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\C#\test\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\C#\test\bin\roslyn\csi.exe
+C:\Users\user\Desktop\C#\test\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\C#\test\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\C#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\C#\test\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\C#\test\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\C#\test\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\C#\test\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\C#\test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\C#\test\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\C#\test\bin\BLL.dll
+C:\Users\user\Desktop\C#\test\bin\DTO.dll
+C:\Users\user\Desktop\C#\test\bin\EntityFramework.dll
+C:\Users\user\Desktop\C#\test\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\C#\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\C#\test\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\C#\test\bin\System.Device.Portable.dll
+C:\Users\user\Desktop\C#\test\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\C#\test\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Cors.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Http.Cors.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Http.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\C#\test\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\C#\test\bin\WebGrease.dll
+C:\Users\user\Desktop\C#\test\bin\DAL.dll
+C:\Users\user\Desktop\C#\test\bin\BLL.pdb
+C:\Users\user\Desktop\C#\test\bin\BLL.dll.config
+C:\Users\user\Desktop\C#\test\bin\DTO.pdb
+C:\Users\user\Desktop\C#\test\bin\DTO.dll.config
+C:\Users\user\Desktop\C#\test\bin\EntityFramework.xml
+C:\Users\user\Desktop\C#\test\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\C#\test\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.Http.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.Http.Cors.xml
+C:\Users\user\Desktop\C#\test\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\C#\test\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\C#\test\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\C#\test\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\C#\test\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\C#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\C#\test\bin\DAL.pdb
+C:\Users\user\Desktop\C#\test\bin\DAL.dll.config
+C:\Users\user\Desktop\C#\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\C#\test\obj\Debug\test.dll
+C:\Users\user\Desktop\C#\test\obj\Debug\test.pdb
+D:\11.11\C#\test\bin\ApplicationInsights.config
+D:\11.11\C#\test\bin\test.dll.config
+D:\11.11\C#\test\bin\test.dll
+D:\11.11\C#\test\bin\test.pdb
+D:\11.11\C#\test\bin\roslyn\csc.exe
+D:\11.11\C#\test\bin\roslyn\csc.exe.config
+D:\11.11\C#\test\bin\roslyn\csc.rsp
+D:\11.11\C#\test\bin\roslyn\csi.exe
+D:\11.11\C#\test\bin\roslyn\csi.exe.config
+D:\11.11\C#\test\bin\roslyn\csi.rsp
+D:\11.11\C#\test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\11.11\C#\test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\11.11\C#\test\bin\roslyn\Microsoft.Managed.Core.targets
+D:\11.11\C#\test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\11.11\C#\test\bin\roslyn\System.AppContext.dll
+D:\11.11\C#\test\bin\roslyn\System.Collections.Immutable.dll
+D:\11.11\C#\test\bin\roslyn\System.Console.dll
+D:\11.11\C#\test\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\11.11\C#\test\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\11.11\C#\test\bin\roslyn\System.IO.Compression.dll
+D:\11.11\C#\test\bin\roslyn\System.IO.FileSystem.dll
+D:\11.11\C#\test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\11.11\C#\test\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\11.11\C#\test\bin\roslyn\System.IO.Pipes.dll
+D:\11.11\C#\test\bin\roslyn\System.Reflection.Metadata.dll
+D:\11.11\C#\test\bin\roslyn\System.Security.AccessControl.dll
+D:\11.11\C#\test\bin\roslyn\System.Security.Claims.dll
+D:\11.11\C#\test\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\11.11\C#\test\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\11.11\C#\test\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\11.11\C#\test\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\11.11\C#\test\bin\roslyn\System.Security.Principal.Windows.dll
+D:\11.11\C#\test\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\11.11\C#\test\bin\roslyn\System.ValueTuple.dll
+D:\11.11\C#\test\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\11.11\C#\test\bin\roslyn\System.Xml.XmlDocument.dll
+D:\11.11\C#\test\bin\roslyn\System.Xml.XPath.dll
+D:\11.11\C#\test\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\11.11\C#\test\bin\roslyn\vbc.exe
+D:\11.11\C#\test\bin\roslyn\vbc.exe.config
+D:\11.11\C#\test\bin\roslyn\vbc.rsp
+D:\11.11\C#\test\bin\roslyn\VBCSCompiler.exe
+D:\11.11\C#\test\bin\roslyn\VBCSCompiler.exe.config
+D:\11.11\C#\test\bin\Antlr3.Runtime.dll
+D:\11.11\C#\test\bin\BLL.dll
+D:\11.11\C#\test\bin\DTO.dll
+D:\11.11\C#\test\bin\EntityFramework.dll
+D:\11.11\C#\test\bin\EntityFramework.SqlServer.dll
+D:\11.11\C#\test\bin\Microsoft.AI.Agent.Intercept.dll
+D:\11.11\C#\test\bin\Microsoft.AI.DependencyCollector.dll
+D:\11.11\C#\test\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\11.11\C#\test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\11.11\C#\test\bin\Microsoft.AI.Web.dll
+D:\11.11\C#\test\bin\Microsoft.AI.WindowsServer.dll
+D:\11.11\C#\test\bin\Microsoft.ApplicationInsights.dll
+D:\11.11\C#\test\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\11.11\C#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\11.11\C#\test\bin\Microsoft.Web.Infrastructure.dll
+D:\11.11\C#\test\bin\Newtonsoft.Json.dll
+D:\11.11\C#\test\bin\System.Device.Portable.dll
+D:\11.11\C#\test\bin\System.Diagnostics.DiagnosticSource.dll
+D:\11.11\C#\test\bin\System.Net.Http.Formatting.dll
+D:\11.11\C#\test\bin\System.Web.Cors.dll
+D:\11.11\C#\test\bin\System.Web.Helpers.dll
+D:\11.11\C#\test\bin\System.Web.Http.Cors.dll
+D:\11.11\C#\test\bin\System.Web.Http.dll
+D:\11.11\C#\test\bin\System.Web.Http.WebHost.dll
+D:\11.11\C#\test\bin\System.Web.Mvc.dll
+D:\11.11\C#\test\bin\System.Web.Optimization.dll
+D:\11.11\C#\test\bin\System.Web.Razor.dll
+D:\11.11\C#\test\bin\System.Web.WebPages.Deployment.dll
+D:\11.11\C#\test\bin\System.Web.WebPages.dll
+D:\11.11\C#\test\bin\System.Web.WebPages.Razor.dll
+D:\11.11\C#\test\bin\WebGrease.dll
+D:\11.11\C#\test\bin\DAL.dll
+D:\11.11\C#\test\bin\BLL.pdb
+D:\11.11\C#\test\bin\BLL.dll.config
+D:\11.11\C#\test\bin\DTO.pdb
+D:\11.11\C#\test\bin\DTO.dll.config
+D:\11.11\C#\test\bin\EntityFramework.xml
+D:\11.11\C#\test\bin\EntityFramework.SqlServer.xml
+D:\11.11\C#\test\bin\System.Net.Http.Formatting.xml
+D:\11.11\C#\test\bin\System.Web.Http.xml
+D:\11.11\C#\test\bin\System.Web.Http.Cors.xml
+D:\11.11\C#\test\bin\Newtonsoft.Json.xml
+D:\11.11\C#\test\bin\System.Web.Helpers.xml
+D:\11.11\C#\test\bin\System.Web.Http.WebHost.xml
+D:\11.11\C#\test\bin\System.Web.Mvc.xml
+D:\11.11\C#\test\bin\System.Web.Optimization.xml
+D:\11.11\C#\test\bin\System.Web.Razor.xml
+D:\11.11\C#\test\bin\System.Web.WebPages.xml
+D:\11.11\C#\test\bin\System.Web.WebPages.Deployment.xml
+D:\11.11\C#\test\bin\System.Web.WebPages.Razor.xml
+D:\11.11\C#\test\bin\Antlr3.Runtime.pdb
+D:\11.11\C#\test\bin\System.Diagnostics.DiagnosticSource.xml
+D:\11.11\C#\test\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\11.11\C#\test\bin\Microsoft.AI.DependencyCollector.xml
+D:\11.11\C#\test\bin\Microsoft.AI.WindowsServer.xml
+D:\11.11\C#\test\bin\Microsoft.AI.Web.xml
+D:\11.11\C#\test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\11.11\C#\test\bin\DAL.pdb
+D:\11.11\C#\test\bin\DAL.dll.config
+D:\11.11\C#\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\11.11\C#\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\11.11\C#\test\obj\Debug\test.csproj.CopyComplete
+D:\11.11\C#\test\obj\Debug\test.dll
+D:\11.11\C#\test\obj\Debug\test.pdb

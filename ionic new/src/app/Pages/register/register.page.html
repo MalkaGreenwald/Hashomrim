@@ -1,0 +1,99 @@
+
+
+
+<ion-header color="primary" >
+  <!-- style="height: 62px;" -->
+  <ion-toolbar color="primary">
+    <ion-buttons dir="rtl" slot="start">
+      <ion-menu-button ></ion-menu-button>
+    
+    </ion-buttons>   
+    <ion-title>
+    <div style="margin-right: 65px; margin-left: -4px;  position: absolute;">הרשמה</div>
+      </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+
+<ion-content>
+  <form (ngSubmit)="register()" #registerForm="ngForm" class="list-form">
+    <ion-item>
+      <ion-label floating>
+        <ion-icon name="person" item-start class="text-primary"></ion-icon>
+        ת.ז.
+      </ion-label>
+      <ion-input class="item-labe" type="number" name="tz" #tz="ngModel" [(ngModel)]="volunteer.tz" required></ion-input>
+    </ion-item>
+    <ion-item no-lines >
+      <div class="error" *ngIf="tz.invalid && (tz.dirty || tz.touched)" >
+        <div *ngIf="tz.errors.required">
+          שדה זה חובה
+        </div>
+      </div>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>
+        <ion-icon name="person" item-start class="text-primary"></ion-icon>
+        שם פרטי
+      </ion-label>
+      <ion-input class="item-labe" type="text" #firstName="ngModel" name="firstName" [(ngModel)]="volunteer.firstName"
+        required></ion-input>
+    </ion-item>
+
+    <ion-item no-lines >
+      <div class="error" *ngIf="firstName.invalid && (firstName.dirty || firstName.touched)" >
+        <div *ngIf="firstName.errors.required">
+          שדה זה חובה
+        </div>
+      </div>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>
+        <ion-icon name="person" item-start class="text-primary"></ion-icon>
+        שם משפחה
+      </ion-label>
+      <ion-input class="item-labe" type="text" name="lastName" #lastName="ngModel" [(ngModel)]="volunteer.lastName"
+        required></ion-input>
+    </ion-item>
+
+    <ion-item no-lines >
+      <div class="error" *ngIf="lastName.invalid && (lastName.dirty || lastName.touched)" >
+        <div *ngIf="lastName.errors.required">
+          שדה זה חובה
+        </div>
+      </div>
+    </ion-item>
+
+    <ion-item>
+      <ion-label floating>
+        <ion-icon name="person" item-start class="text-primary"></ion-icon>
+        מספר פלאפון
+      </ion-label>
+      <ion-input class="item-labe" type="number" name="phone" #phone="ngModel" [(ngModel)]="volunteer.phone" required></ion-input>
+    </ion-item>
+
+    <ion-item no-lines >
+      <div class="error" *ngIf="phone.invalid && (phone.dirty || phone.touched)" >
+        <div *ngIf="phone.errors.required">
+          שדה זה חובה
+        </div>
+      </div>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">מצב אישי</ion-label>
+      <ion-select name="ok" [(ngModel)]="volunteer.personalSituationId" okText="אישור" cancelText="ביטול">
+        <ion-select-option *ngFor="let item of listStatus" [value]="item.personalSituationId">{{item.discribe}}</ion-select-option>
+      </ion-select>
+    </ion-item>
+
+    <div margin-top>
+      
+      <ion-button style="width: 99%;" (click)="register()">הרשמה</ion-button>
+    </div>
+  </form>
+
+  
+</ion-content>

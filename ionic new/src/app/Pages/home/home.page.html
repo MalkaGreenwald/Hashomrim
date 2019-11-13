@@ -1,0 +1,39 @@
+
+<ion-header color="primary" >
+  <!-- style="height: 62px;" -->
+  <ion-toolbar color="primary">
+    <ion-title>
+
+    <div style="margin-right: 65px;
+    margin-left: -4px;
+
+    position: absolute;">
+אישור הרשמה
+     </div>
+  </ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+
+<ion-content padding>
+<form #templForm="ngForm" name="formEnter" >
+<div style="    margin-top: 20%;
+font-size: larger;
+font-family: inherit;
+text-align: center;">
+<p>כדי להיכנס לאפליקציה </p>
+<p>עליך לאשר שאתה מודע לכך</p>
+<p>   ששאר המטיילים שרשומים</p>
+<p>לאפליקציה שלך יוכלו לראות</p>
+<p> את מיקומך,וכן המנהלים יוכלו</p>
+<p> לראות גם את פרטיך </p>
+<p> המורחבים</p>
+</div>
+<ion-checkbox style="margin-top: 8%;" required [(ngModel)]="checkbox2" name="checkbox2" color="warning" #gen="ngModel" > </ion-checkbox>
+<div style="margin-right: 11%;
+margin-top: 8%;
+position: absolute;">מסכימה לתנאי ההרשמה</div> 
+<ion-button   [disabled]="templForm.invalid" expand="block" (click)="moveRegister()"> כניסה  </ion-button>
+<!-- <button   name="button"></button> -->
+</form>
+</ion-content>

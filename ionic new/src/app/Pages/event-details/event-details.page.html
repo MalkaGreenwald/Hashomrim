@@ -1,0 +1,62 @@
+
+<ion-header color="danger">
+  <ion-toolbar color="primary">
+    <ion-buttons slot="start">
+      <ion-back-button style="transform: rotate(180deg);" ></ion-back-button>
+    </ion-buttons>
+    <ion-title style="margin-right:74px;"> אירוע</ion-title>
+  </ion-toolbar>
+ </ion-header>
+
+<ion-content >
+ 
+   <div style="font-weight: bold; margin-right: 16%; margin-top: 22px; ;">
+    {{event.eventName}}
+   </div>
+       
+<div style="margin-right: 63px;font-size: small;margin-top: 7px;"> לפני {{funcDate(event.startCallingDate)}}  דקות</div>
+      
+   
+  
+  <!-- <div style=" margin-top: 16px;"> -->
+     <agm-map [latitude]="event.widthPointAddress" [longitude]="event.heightPointAddress"> 
+      <agm-marker [latitude]="event.widthPointAddress" [longitude]="event.heightPointAddress">
+       </agm-marker> 
+    </agm-map> 
+  <!-- <img  src="../../../assets/img/map.jpg">  -->
+  <!-- </div> -->
+
+  <div  >
+  <img   style=" margin-top:25px; width: 57px;margin-right: 15px;" src="../../../assets/img/waze-logo.jpg">
+  <div>
+      <a  [href]="url" > איך להגיע</a>
+      <!-- <ion-button  style="margin-right: 94px;  margin-top: -82px;  width: 126px;">איך להגיע</ion-button> -->
+  </div>
+  </div> 
+
+  
+<div style="font-weight: bold;    margin-right: 16%;">פרטי אירוע</div>
+<div style="    margin-right: 16%;
+margin-top: 7px;">{{event.eventDescription}}</div> 
+  <div style="margin-top: 7px; margin-right: 16%; ">{{event.stringAddress}} </div>
+  <ion-button color="green"
+ style="     background-color: #09ff00;
+ width: 99%;
+ margin-top: 89px;
+ height: 52px;
+ font-size: larger;" *ngIf="0==succ"  (click)="openModal()" >אני רוצה לקחת את האירוע</ion-button>
+   <ion-button color="green"
+   style="background-color:pink;
+   
+   width: 99%;
+   margin-top: 89px;
+   height: 52px;
+   font-size: larger;" *ngIf="1==succ" disabled (click)="openModal()" >האירוע כבר נלקח</ion-button>
+  <!-- <ion-button  *ngIf=" succ==1" color="pink">האירוע כבר נלקח</ion-button> -->
+  <!-- <ion-button color="primary" (click)="takeEvent()">אישור יציאה לאירוע מהמדל</ion-button> -->
+  <!-- (event.eventStatusId==2 ||event.eventStatusId == 1) && 
+  event.eventStatusId==3 || event.eventStatusId==4 || -->
+</ion-content>
+
+
+
